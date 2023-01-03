@@ -1,0 +1,12 @@
+Grenadian sovereign territory:
+
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	12.60777	,lon=	-61.6648	})
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	12.52841	,lon=	-61.3819	})
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	12.3976	,lon=	-61.2095	})
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	11.9035	,lon=	-61.4885	})
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	11.80761	,lon=	-61.6287	})
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	11.77793	,lon=	-61.7866	})
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	11.85475	,lon=	-61.9448	})
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	11.93878	,lon=	-61.9971	})
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	12.02973	,lon=	-62.0052	})
+ScenEdit_AddReferencePoint( {side="Grenada",lat=	12.28032	,lon=	-61.9037	})

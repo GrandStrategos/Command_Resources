@@ -1,0 +1,18 @@
+Falkland islander sovereign territroy:
+
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-51.3213	,lon=	-57.5651	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-51.1749	,lon=	-57.825	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-50.9925	,lon=	-58.9838	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-51.0713	,lon=	-59.4825	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-50.8018	,lon=	-61.2735	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-50.8234	,lon=	-61.6179	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-50.9874	,lon=	-61.7755	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-51.1789	,lon=	-61.6001	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-51.8904	,lon=	-61.6577	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-52.309	,lon=	-61.174	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-52.4539	,lon=	-60.7282	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-52.6471	,lon=	-59.1663	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-52.608	,lon=	-58.6961	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-51.8482	,lon=	-57.4861	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-51.6584	,lon=	-57.3676	})
+ScenEdit_AddReferencePoint( {side="United Kingdom",lat=	-51.4487	,lon=	-57.418	})

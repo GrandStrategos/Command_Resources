@@ -1,0 +1,15 @@
+Taiwan/Republic of China sovereign territory (not occupied by P.R. China):
+
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	25.63657	,lon=	122.3074	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	24.79157	,lon=	122.1779	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	23.42988	,lon=	121.727	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	21.88125	,lon=	121.8206	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	21.75443	,lon=	121.6818	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	21.57278	,lon=	120.7307	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	23.07634	,lon=	119.2356	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	23.2624	,lon=	119.1068	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	23.46861	,lon=	119.0988	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	23.92737	,lon=	119.3776	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	25.23009	,lon=	120.9569	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	25.82499	,lon=	122.0086	})
+ScenEdit_AddReferencePoint({side="Taiwan",lat=	25.79889	,lon=	122.2101	})

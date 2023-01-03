@@ -1,0 +1,553 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 3559,
+      "Member_GUID": "0498G2-0HMK3L909I9UQ",
+      "MemberType": "Ship",
+      "MemberName": "USS Gerald R. Ford (CVN-78)",
+      "ParentGroupName": "CSG-12",
+      "Longitude": -75.520451833949963,
+      "Latitude": 36.530013336296221,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VFA-97 \"Warhawks\" #1",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #11",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-124 \"Bear Aces\" #3",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #14",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #7",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-9 \"Tridents\" #3",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-40 Det.2 \"Rawhides\" #1",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-131 \"Lancers\" #1",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #1",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-9 \"Tridents\" #2",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-9 \"Tridents\" #8",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-131 \"Lancers\" #3",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #10",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-9 \"Tridents\" #7",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #3",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #13",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-124 \"Bear Aces\" #5",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #5",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #8",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-9 \"Tridents\" #1",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-131 \"Lancers\" #2",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-131 \"Lancers\" #5",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-131 \"Lancers\" #4",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-124 \"Bear Aces\" #4",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #2",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-9 \"Tridents\" #6",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-124 \"Bear Aces\" #1",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #6",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #9",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-9 \"Tridents\" #4",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #2",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-9 \"Tridents\" #5",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #12",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-97 \"Warhawks\" #4",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-37 \"Ragin' Bulls\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-40 Det.2 \"Rawhides\" #2",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-124 \"Bear Aces\" #2",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-213 \"Blacklions\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #9",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #10",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #6",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #4",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #8",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #11",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #7",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #5",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-70 \"Spartans\" #3",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2860,
+      "Member_GUID": "0498G2-0HMK4F4JUB33G",
+      "MemberType": "Ship",
+      "MemberName": "USS Leyte Gulf (CG-55)",
+      "ParentGroupName": "CSG-12",
+      "Longitude": -75.535171693051481,
+      "Latitude": 36.541827178915874,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3152,
+      "Member_GUID": "0498G2-0HMK4F4JUB4GI",
+      "MemberType": "Ship",
+      "MemberName": "USS Gettysburg (CG-64)",
+      "ParentGroupName": "CSG-12",
+      "Longitude": -75.504762003535987,
+      "Latitude": 36.541533816452144,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2867,
+      "Member_GUID": "0498G2-0HMK4F4JUC16K",
+      "MemberType": "Ship",
+      "MemberName": "USS Arleigh Burke (DDG-51)",
+      "ParentGroupName": "CSG-12",
+      "Longitude": -75.54933037098121,
+      "Latitude": 36.529560585660256,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2870,
+      "Member_GUID": "0498G2-0HMK4F4JUC4SS",
+      "MemberType": "Ship",
+      "MemberName": "USS Winton S. Churchill (DDG-81)",
+      "ParentGroupName": "CSG-12",
+      "Longitude": -75.491577193481234,
+      "Latitude": 36.53024856221105,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3147,
+      "Member_GUID": "0498G2-0HMK4F4JUC7OE",
+      "MemberType": "Ship",
+      "MemberName": "USS Mason (DDG-87)",
+      "ParentGroupName": "CSG-12",
+      "Longitude": -75.535042019686969,
+      "Latitude": 36.519066926137413,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3148,
+      "Member_GUID": "0498G2-0HMK4F4JUCA58",
+      "MemberType": "Ship",
+      "MemberName": "USS Nitze (DDG-94)",
+      "ParentGroupName": "CSG-12",
+      "Longitude": -75.505131971031986,
+      "Latitude": 36.518084147238511,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK4F4JUCBRK",
+      "MemberType": "Ship",
+      "MemberName": "USS Gonzalez (DDG-66)",
+      "ParentGroupName": "CSG-12",
+      "Longitude": -75.5202680183966,
+      "Latitude": 36.509649081570551,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "2022",
+  "ValidUntil": "",
+  "Name": "Carrier Strike Group 12",
+  "Comments": "USS Gerald R. Ford (CVN-78) with accompanying ships (USS Leyte Gulf, Gettysburg, DESRON-2) and air wing (CVW-8)"
+}

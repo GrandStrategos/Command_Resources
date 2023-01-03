@@ -1,0 +1,359 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 2416,
+      "Member_GUID": "0498G2-0HMK5G03233NR",
+      "MemberType": "Facility",
+      "MemberName": "Single-Unit Airfield (4x 4000m+ Runways)",
+      "ParentGroupName": "MCAS Yuma (KNYL)",
+      "Longitude": -114.60384475388437,
+      "Latitude": 32.657303537741946,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #10",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #8",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #1",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #9",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #15",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #16",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #4",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #3",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #14",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #13",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #12",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #6",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #5",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #11",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #7",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-122 \"Flying Leathernecks\" #2",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #15",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #2",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #1",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #16",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #14",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #8",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #6",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #7",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #9",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #5",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #12",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #10",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #4",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #11",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #3",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-211 \"Wake Island Avengers\" #13",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #11",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #7",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #10",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #9",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #8",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #2",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #16",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #1",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #15",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #3",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #4",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #6",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #14",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #5",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #13",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-214 \"Black Sheep\" #12",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMU-1 \"Watchdogs\" #2",
+          "AC_DBID": 5333,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMU-1 \"Watchdogs\" #1",
+          "AC_DBID": 5333,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1957,
+      "Member_GUID": "0498G2-0HMK5G03233OT",
+      "MemberType": "Facility",
+      "MemberName": "Single-Unit Airfield (Heliport)",
+      "ParentGroupName": "MCAS Yuma (KNYL)",
+      "Longitude": -114.58928694132091,
+      "Latitude": 32.6642354512576,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1014,
+      "Member_GUID": "0498G2-0HMK5G03233RG",
+      "MemberType": "Facility",
+      "MemberName": "Radar (ASR-9 GCA)",
+      "ParentGroupName": "MCAS Yuma (KNYL)",
+      "Longitude": -114.59767807220075,
+      "Latitude": 32.658231978521123,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "2022",
+  "ValidUntil": "",
+  "Name": "MCAS Yuma (KNYL)",
+  "Comments": "Elements of MAG-13 currently based at Marine Corps Air Station Yuma"
+}

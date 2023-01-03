@@ -1,0 +1,931 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 1014,
+      "Member_GUID": "0498G2-0HMKAG47VGLVC",
+      "MemberType": "Facility",
+      "MemberName": "Radar (ASR-9 GCA)",
+      "ParentGroupName": "MCAS New River (KNCA)",
+      "Longitude": -77.445781163595157,
+      "Latitude": 34.710218927195626,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1710,
+      "Member_GUID": "0498G2-0HMKAG47VGM06",
+      "MemberType": "Facility",
+      "MemberName": "Single-Unit Airfield (2x 1401-2000m Runways)",
+      "ParentGroupName": "MCAS New River (KNCA)",
+      "Longitude": -77.444916767113824,
+      "Latitude": 34.70725381086595,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #7",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #5",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #4",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #9",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #6",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #12",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #1",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #2",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #3",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #8",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #4",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #10",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #11",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #1",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-162 \"Golden Eagles\" #3",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #2",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #4",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #9",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #8",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #10",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #12",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #5",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #6",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #8",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #7",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #3",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #11",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #1",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #6",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #5",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #2",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-261 \"Raging Bulls\" #7",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #3",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #8",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #10",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #1",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #5",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #4",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #9",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #6",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #10",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #9",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #2",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #12",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #11",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-263 \"Thunder Chickens\" #11",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #7",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMM-365 \"Blue Knights\" #12",
+          "AC_DBID": 5318,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #3",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #2",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #15",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #16",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #6",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #1",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #13",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #12",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #14",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #10",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #11",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #4",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #5",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #7",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #9",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #8",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #2",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #19",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #17",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #23",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #27",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #25",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #4",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #21",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #24",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #1",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #20",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #5",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #22",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #26",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-167 \"Warriors\" #18",
+          "AC_DBID": 2924,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #3",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #9",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #13",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #21",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #10",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #6",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #11",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #17",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #14",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #8",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #7",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #18",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #19",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #16",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #15",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #12",
+          "AC_DBID": 4792,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #20",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #23",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #3",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #25",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #1",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #4",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #2",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #27",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #6",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #22",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #5",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #26",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMLA-269 \"The Gunrunners\" #24",
+          "AC_DBID": 2844,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #9",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #16",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #11",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #10",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #12",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #13",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #7",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #14",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #15",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-366 \"Hammerheads\" #8",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #6",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #10",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #2",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #9",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #3",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #1",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #7",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #4",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #5",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #8",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #16",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #3",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #1",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #4",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #11",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #2",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #12",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #13",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #15",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-461 \"Ironhorse\" #14",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #11",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #10",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #12",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #6",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #13",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #7",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #5",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #14",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #8",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HMH-464 \"Condors\" #9",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "2022",
+  "ValidUntil": "",
+  "Name": "MCAS New River (KNCA)",
+  "Comments": "Elememts of MAG-26 and MAG-29 based at Marine Corps Air Station New River"
+}

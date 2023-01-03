@@ -1,0 +1,613 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 3558,
+      "Member_GUID": "0498G2-0HMK336B7GP9D",
+      "MemberType": "Ship",
+      "MemberName": "USS George H.W. Bush (CVN-77)",
+      "ParentGroupName": "CSG-2",
+      "Longitude": -75.465123809562215,
+      "Latitude": 37.171256566979679,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-140 \"Patriots #1",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-140 \"Patriots #2",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-103 \"Jolly Rogers\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-25 \"Fist of the Fleet\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-143 \"Pukin Dogs\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-86 \"Sidewinders\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #5",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #9",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-5 \"Nightdippers\" #3",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-40 Det.3 \"Rawhides\" #2",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-5 \"Nightdippers\" #5",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #1",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-140 \"Patriots #3",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-121 \"Bluetails\" #2",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #6",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-5 \"Nightdippers\" #2",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-5 \"Nightdippers\" #8",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #8",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-5 \"Nightdippers\" #6",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-140 \"Patriots #5",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-121 \"Bluetails\" #3",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #11",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-5 \"Nightdippers\" #1",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #2",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-5 \"Nightdippers\" #7",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #7",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-121 \"Bluetails\" #1",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #10",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-5 \"Nightdippers\" #4",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #3",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-140 \"Patriots #4",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-79 \"Griffins\" #4",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-121 \"Bluetails\" #4",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-121 \"Bluetails\" #5",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-40 Det.3 \"Rawhides\" #1",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2861,
+      "Member_GUID": "0498G2-0HMK336B7GRLA",
+      "MemberType": "Ship",
+      "MemberName": "USS Philippine Sea (CG-58)",
+      "ParentGroupName": "CSG-2",
+      "Longitude": -75.477424430586254,
+      "Latitude": 37.183603180218945,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3149,
+      "Member_GUID": "0498G2-0HMK336B7I0EH",
+      "MemberType": "Ship",
+      "MemberName": "USS Vella Gulf (CG-72)",
+      "ParentGroupName": "CSG-2",
+      "Longitude": -75.453240727113652,
+      "Latitude": 37.18265771804144,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK3L9055Q8B",
+      "MemberType": "Ship",
+      "MemberName": "USS Mitscher (DDG-57)",
+      "ParentGroupName": "CSG-2",
+      "Longitude": -75.489055775715386,
+      "Latitude": 37.170961821213027,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 56.9999046,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK3L9055ROM",
+      "MemberType": "Ship",
+      "MemberName": "USS Laboon (DDG-58)",
+      "ParentGroupName": "CSG-2",
+      "Longitude": -75.441143928899649,
+      "Latitude": 37.170281523574914,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 303.002319,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2868,
+      "Member_GUID": "0498G2-0HMK3L905617E",
+      "MemberType": "Ship",
+      "MemberName": "USS Mahan (DDG-72)",
+      "ParentGroupName": "CSG-2",
+      "Longitude": -75.477945587855231,
+      "Latitude": 37.158824044686277,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 39.4157867,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK3L90562VA",
+      "MemberType": "Ship",
+      "MemberName": "USS Cole (DDG-67)",
+      "ParentGroupName": "CSG-2",
+      "Longitude": -75.452581116015523,
+      "Latitude": 37.157800069021107,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 323.399963,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2870,
+      "Member_GUID": "0498G2-0HMK3L90565HG",
+      "MemberType": "Ship",
+      "MemberName": "USS Bulkeley (DDG-84)",
+      "ParentGroupName": "CSG-2",
+      "Longitude": -75.4651244508874,
+      "Latitude": 37.148596768118445,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 359.9974,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "2022",
+  "ValidUntil": "",
+  "Name": "Carrier Strike Group 2 ",
+  "Comments": "USS George H. W. Bush (CVN-77) with accompanying ships (USS Philippine Sea, Vella Gulf, DESRON-22) and air wing (CVW-7)"
+}

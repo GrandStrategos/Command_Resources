@@ -1,0 +1,43 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 2602,
+      "Member_GUID": "6VZPRR-0HMN9TH48SVFT",
+      "MemberType": "Facility",
+      "MemberName": "Radar (29B6 Kontainer OTH-B Transmitter, Kovylkino)",
+      "ParentGroupName": null,
+      "Longitude": 43.8427,
+      "Latitude": 53.9841,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 95.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_6VZPRR-0HMN9TH48SVFT>\r\n        <!--Radar (29B6 Kontainer OTH-B Transmitter, Kovylkino) (Radar (29B6 Kontainer OTH-B Transmitter) [2602])-->\r\n        <SensorActive_5635 />\r\n        <!--29B6 Kontainer OTH-B-->\r\n    </Unit_6VZPRR-0HMN9TH48SVFT>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 2603,
+      "Member_GUID": "6VZPRR-0HMN9TH48SVGU",
+      "MemberType": "Facility",
+      "MemberName": "Radar (29B6 Kontainer OTH-B Receiver, Kovylkino)",
+      "ParentGroupName": null,
+      "Longitude": 43.9928,
+      "Latitude": 53.8832,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "2013",
+  "ValidUntil": "",
+  "Name": "29B6 Kontainer OTH-B Radar, Kovylkino",
+  "Comments": "Container (29B6) radar is the new generation of Russian over-the-horizon radar, providing long distance airspace monitoring and ballistic missile detection. The first radar, near Kovylkino, Mordovia, Russia, became operational in December 2013. Further radars have been announced to be situated near Zeya in Russian Far East and in Kaliningrad, but neither have progressed past planning.",
+  "Template": false
+}

@@ -1,0 +1,59 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 2517,
+      "Member_GUID": "6VZPRR-0HMN6QF1S2LCP",
+      "MemberType": "Facility",
+      "MemberName": "ROTHR-VA, New Kent, Virginia (AN/TPS-71 ROTHR)",
+      "ParentGroupName": null,
+      "Longitude": -77.0248,
+      "Latitude": 37.56553,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 133.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_6VZPRR-0HMN6QF1S2LCP>\r\n        <!--ROTHR-VA, New Kent, Virginia (AN/TPS-71 ROTHR) (Radar (AN/TPS-71 ROTHR) [2517])-->\r\n        <SensorActive_5554 />\r\n        <!--AN/TPS-71 ROTHR-->\r\n    </Unit_6VZPRR-0HMN6QF1S2LCP>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 2517,
+      "Member_GUID": "6VZPRR-0HMN6QF1S2LCU",
+      "MemberType": "Facility",
+      "MemberName": "ROTHR-TX. Kingsville, South Texas (AN/TPS-71 ROTHR)",
+      "ParentGroupName": null,
+      "Longitude": -98.1104,
+      "Latitude": 27.52721,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 109.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_6VZPRR-0HMN6QF1S2LCU>\r\n        <!--ROTHR-TX. Kingsville, South Texas (AN/TPS-71 ROTHR) (Radar (AN/TPS-71 ROTHR) [2517])-->\r\n        <SensorActive_5554 />\r\n        <!--AN/TPS-71 ROTHR-->\r\n    </Unit_6VZPRR-0HMN6QF1S2LCU>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 2517,
+      "Member_GUID": "6VZPRR-0HMN6QF1S2LD3",
+      "MemberType": "Facility",
+      "MemberName": "ROTHR-PR, Vieques, Puerto Rico (AN/TPS-71 ROTHR)",
+      "ParentGroupName": null,
+      "Longitude": -65.5121,
+      "Latitude": 18.09804,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 161.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_6VZPRR-0HMN6QF1S2LD3>\r\n        <!--ROTHR-PR, Vieques, Puerto Rico (AN/TPS-71 ROTHR) (Radar (AN/TPS-71 ROTHR) [2517])-->\r\n        <SensorActive_5554 />\r\n        <!--AN/TPS-71 ROTHR-->\r\n    </Unit_6VZPRR-0HMN6QF1S2LD3>\r\n</DeltaUnit>"
+    }
+  ],
+  "ValidFrom": "1993",
+  "ValidUntil": "",
+  "Name": "AN/TPS-71 ROTHR (Relocatable Over-the-Horizon Radar)",
+  "Comments": "AN/TPS-71 ROTHR (Relocatable Over-the-Horizon Radar) is a United States Navy-operated HF frequency, tactical, land-based, bistatic ionospheric backscatter radar system capable of monitoring aerial and maritime activity in a 64° wedge shaped area at ranges between 500 NM and 1600 NM, deployed at stations in Virginia, Puerto Rico and Texas.\r\n",
+  "Template": false
+}

@@ -1,0 +1,3437 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935MA",
+      "MemberType": "Facility",
+      "MemberName": "Wittstock Air Base",
+      "ParentGroupName": null,
+      "Longitude": 12.5225,
+      "Latitude": 53.202222,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 80.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #3",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #3",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #6",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #2",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #3",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #4",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #4",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #2",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #2",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #5",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #5",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #1",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #1",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #1",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #4",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #5",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #7",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #9",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #7",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #10",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #6",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #10",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #8",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #8",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #9",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #9",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 2nd Squadron / #7",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 1st Squadron / #8",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #10",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 33rd IAP / 3rd Squadron / #6",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935NM",
+      "MemberType": "Facility",
+      "MemberName": "Finow Air Base",
+      "ParentGroupName": null,
+      "Longitude": 13.6944444,
+      "Latitude": 52.8269444,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 100.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #2",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #4",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #1",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #5",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #3",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #9",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #8",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #6",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #7",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 3rd Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 2nd Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "16th GvIAD / 787th IAP / 1st Squadron / #10",
+          "AC_DBID": 227,
+          "Loadout_ID": 613,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935OC",
+      "MemberType": "Facility",
+      "MemberName": "Köthen Air Base",
+      "ParentGroupName": null,
+      "Longitude": 11.9644444,
+      "Latitude": 51.7213889,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 90.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #4",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #3",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #4",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #5",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #5",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #3",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #4",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #3",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #1",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #5",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #2",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #2",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #1",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #6",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #2",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #1",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #8",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #10",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #10",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #10",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #9",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #9",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #6",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #9",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #6",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #7",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #8",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 3rd Squadron / #7",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 1st Squadron / #7",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 73rd GvIAP / 2nd Squadron / #8",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935P2",
+      "MemberType": "Facility",
+      "MemberName": "Jüterbog-Altes Lager Air Base",
+      "ParentGroupName": null,
+      "Longitude": 12.9816667,
+      "Latitude": 51.9955556,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 100.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #5",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #4",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #4",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #2",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #1",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #1",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #1",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #6",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #3",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #3",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #4",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #3",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #5",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #5",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #2",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #2",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #8",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #8",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #7",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #9",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #7",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #7",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #6",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #10",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #9",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #10",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 2nd Squadron / #9",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 1st Squadron / #10",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #6",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 833rd IAP / 3rd Squadron / #8",
+          "AC_DBID": 208,
+          "Loadout_ID": 23195,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1714,
+      "Member_GUID": "6VZPRR-0HMN9TH4935PO",
+      "MemberType": "Facility",
+      "MemberName": "Falkenberg Air Base",
+      "ParentGroupName": null,
+      "Longitude": 13.2163889,
+      "Latitude": 51.5466667,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 80.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 2nd Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 3rd Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 31st GvIAP / 1st Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935QE",
+      "MemberType": "Facility",
+      "MemberName": "Merseburg Air Base",
+      "ParentGroupName": null,
+      "Longitude": 11.9502778,
+      "Latitude": 51.3641667,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 80.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 3rd Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 2nd Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 85th GvIAP / 1st Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 4262,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935R4",
+      "MemberType": "Facility",
+      "MemberName": "Lärz Air Base",
+      "ParentGroupName": null,
+      "Longitude": 12.7533333,
+      "Latitude": 53.3063889,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 80.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #2",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #5",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #2",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #4",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #4",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #1",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #3",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #5",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #3",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #1",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #2",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #4",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #3",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #5",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #6",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #1",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #8",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #7",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #7",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #8",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #10",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #9",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #6",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #9",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #6",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #10",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #8",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 1st Squadron / #7",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 2nd Squadron / #9",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 19th GvAPIB / 3rd Squadron / #10",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 430,
+      "Member_GUID": "6VZPRR-0HMN9TH4935RQ",
+      "MemberType": "Facility",
+      "MemberName": "Templin Air Base",
+      "ParentGroupName": null,
+      "Longitude": 13.5425,
+      "Latitude": 53.0319444,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 90.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #5",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #3",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #6",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #5",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #1",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #2",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #4",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #3",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #2",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #5",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #2",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #1",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #4",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #1",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #4",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #3",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #10",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #9",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #7",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #8",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #6",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #10",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #9",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 1st Squadron / #8",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #7",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #10",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #7",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #9",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 3rd Squadron / #8",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 20th GvAPIB / 2nd Squadron / #6",
+          "AC_DBID": 2603,
+          "Loadout_ID": 4049,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935SH",
+      "MemberType": "Facility",
+      "MemberName": "Neuruppin Air Base",
+      "ParentGroupName": null,
+      "Longitude": 12.7869444,
+      "Latitude": 52.9411111,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 100.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #5",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #1",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #5",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #3",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #1",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #4",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #5",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #6",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #1",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #4",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #2",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #2",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #2",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #3",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #4",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #3",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #6",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #9",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #7",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #8",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #8",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #7",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #10",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #8",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #7",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 3rd Squadron / #9",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #9",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #6",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 1st Squadron / #10",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "125th ADIB / 730th APIB / 2nd Squadron / #10",
+          "AC_DBID": 1177,
+          "Loadout_ID": 3845,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935T7",
+      "MemberType": "Facility",
+      "MemberName": "Altenburg Air Base",
+      "ParentGroupName": null,
+      "Longitude": 12.5075,
+      "Latitude": 50.9827778,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 40.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #1",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #4",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #4",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #1",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #4",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #5",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #6",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #5",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #3",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #2",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #2",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #1",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #3",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #2",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #5",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #3",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #8",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #7",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #7",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #10",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #8",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #9",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #8",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #9",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #10",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #9",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #6",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 2nd Squadron / #10",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 3rd Squadron / #6",
+          "AC_DBID": 167,
+          "Loadout_ID": 16093,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "6th GvIAD / 296th APIB / 1st Squadron / #7",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935TT",
+      "MemberType": "Facility",
+      "MemberName": "Zerbst Air Base",
+      "ParentGroupName": null,
+      "Longitude": 12.1458333,
+      "Latitude": 52.0,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 70.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #3",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #4",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #1",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #5",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #2",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #8",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #10",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #9",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 3rd Squadron / #6",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 2nd Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "126th IAD / 35th APIB / 1st Squadron / #7",
+          "AC_DBID": 878,
+          "Loadout_ID": 24140,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1713,
+      "Member_GUID": "6VZPRR-0HMN9TH4935UJ",
+      "MemberType": "Facility",
+      "MemberName": "Brand Air Base",
+      "ParentGroupName": null,
+      "Longitude": 13.7472222,
+      "Latitude": 52.0358333,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 90.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #2",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #2",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #4",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #3",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #1",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #3",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #1",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #3",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #1",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #2",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #4",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #5",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #5",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #5",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #4",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #7",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #7",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #6",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #6",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #6",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #8",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #8",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #9",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #9",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #7",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #8",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 2nd Squadron / #10",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 3rd Squadron / #10",
+          "AC_DBID": 716,
+          "Loadout_ID": 3811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #10",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 116th GvBAP / 1st Squadron / #9",
+          "AC_DBID": 716,
+          "Loadout_ID": 3816,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH4935VA",
+      "MemberType": "Facility",
+      "MemberName": "Großenhain Air Base",
+      "ParentGroupName": null,
+      "Longitude": 13.555,
+      "Latitude": 51.3080556,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 120.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #2",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #4",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #1",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #5",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #2",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #4",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #4",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #2",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #5",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #5",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #3",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #1",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #1",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #6",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #3",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #3",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #7",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #7",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #9",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #9",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #8",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #8",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #6",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #10",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #6",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 1st Squadron / #7",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #9",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #10",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 3rd Squadron / #8",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 497th APIB / 2nd Squadron / #10",
+          "AC_DBID": 1620,
+          "Loadout_ID": 12416,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1877,
+      "Member_GUID": "6VZPRR-0HMN9TH493600",
+      "MemberType": "Facility",
+      "MemberName": "Finsterwalde Air Base",
+      "ParentGroupName": null,
+      "Longitude": 13.7413889,
+      "Latitude": 51.6075,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 90.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #4",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #1",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #3",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #4",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #3",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #5",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #1",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #6",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #5",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #4",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #2",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #1",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #2",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #5",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #2",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #3",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #7",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #7",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #10",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #9",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #8",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #7",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #6",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #9",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #8",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #8",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 3rd Squadron / #10",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24810,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 1st Squadron / #9",
+          "AC_DBID": 874,
+          "Loadout_ID": 24812,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #10",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "105th ADIB / 559th APIB / 2nd Squadron / #6",
+          "AC_DBID": 2585,
+          "Loadout_ID": 24811,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1713,
+      "Member_GUID": "6VZPRR-0HMN9TH49360M",
+      "MemberType": "Facility",
+      "MemberName": "Neu-Welzow Air Base",
+      "ParentGroupName": null,
+      "Longitude": 14.1363889,
+      "Latitude": 51.5763889,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 40.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "11th ORAP / 3rd Squadron / #1",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #1",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 3rd Squadron / #2",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #3",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #1",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #2",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #2",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #3",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #6",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #4",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 3rd Squadron / #4",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #4",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #5",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 3rd Squadron / #5",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #5",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 3rd Squadron / #3",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #7",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #8",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 3rd Squadron / #8",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #8",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 3rd Squadron / #6",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #6",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 3rd Squadron / #7",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #7",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #9",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 3rd Squadron / #10",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 3rd Squadron / #9",
+          "AC_DBID": 2120,
+          "Loadout_ID": 5771,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #9",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 1st Squadron / #10",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "11th ORAP / 2nd Squadron / #10",
+          "AC_DBID": 2166,
+          "Loadout_ID": 8550,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH49361D",
+      "MemberType": "Facility",
+      "MemberName": "Allstedt Air Base",
+      "ParentGroupName": null,
+      "Longitude": 11.4475,
+      "Latitude": 51.3808333,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 70.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "294th ORAP / 1st Squadron / #2",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #5",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #3",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #2",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #2",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 1st Squadron / #3",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 1st Squadron / #4",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #1",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 1st Squadron / #1",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #3",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #1",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 1st Squadron / #5",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #4",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #4",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #8",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 1st Squadron / #7",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #9",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #8",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #6",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #7",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 1st Squadron / #6",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #9",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #7",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 1st Squadron / #9",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #6",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #5",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 1st Squadron / #8",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 1st Squadron / #10",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "294th ORAP / 2nd Squadron / #10",
+          "AC_DBID": 2666,
+          "Loadout_ID": 11042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "292nd OVZRB / 1st Squadron / #10",
+          "AC_DBID": 2539,
+          "Loadout_ID": 8667,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH493623",
+      "MemberType": "Facility",
+      "MemberName": "Werneuchen Air Base",
+      "ParentGroupName": null,
+      "Longitude": 13.7691667,
+      "Latitude": 52.6316667,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 80.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "931st GvORAP / 1st Squadron / #4",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #4",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 1st Squadron / #3",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #3",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 1st Squadron / #1",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 1st Squadron / #2",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #1",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 1st Squadron / #5",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #2",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #7",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 1st Squadron / #9",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #9",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 1st Squadron / #6",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #5",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #6",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 1st Squadron / #8",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 1st Squadron / #7",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #8",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 2nd Squadron / #10",
+          "AC_DBID": 226,
+          "Loadout_ID": 796,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "931st GvORAP / 1st Squadron / #10",
+          "AC_DBID": 2166,
+          "Loadout_ID": 3438,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1712,
+      "Member_GUID": "6VZPRR-0HMN9TH49362P",
+      "MemberType": "Facility",
+      "MemberName": "Sperenberg Air Base",
+      "ParentGroupName": null,
+      "Longitude": 13.3061111,
+      "Latitude": 52.1369444,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 90.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "226th OSAP / 1st Squadron / #2",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #4",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "226th OSAP / 1st Squadron / #4",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #1",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #3",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "226th OSAP / 1st Squadron / #3",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #2",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "226th OSAP / 1st Squadron / #1",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #8",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "226th OSAP / 1st Squadron / #8",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "226th OSAP / 1st Squadron / #7",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #5",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #6",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "226th OSAP / 1st Squadron / #6",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #7",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "226th OSAP / 1st Squadron / #5",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #10",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "39th ORAE / 1st Squadron / #9",
+          "AC_DBID": 2118,
+          "Loadout_ID": 8042,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "226th OSAP / 1st Squadron / #10",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "226th OSAP / 1st Squadron / #9",
+          "AC_DBID": 1639,
+          "Loadout_ID": 14782,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "1984",
+  "ValidUntil": "",
+  "Name": "Soviet Air Force in East Germany, 1984",
+  "Comments": "Created by GrandStrategos",
+  "Template": false
+}

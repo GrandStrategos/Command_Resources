@@ -1,0 +1,14 @@
+Nine- (sometimes, Ten- or Eleven-) Dash Line:
+
+ScenEdit_AddReferencePoint( {side="China",lat=	21.3046285	,lon=	121.4446875	})
+ScenEdit_AddReferencePoint( {side="China",lat=	18.154699	,lon=	119.6655515	})
+ScenEdit_AddReferencePoint( {side="China",lat=	15.2295267	,lon=	119.0431369	})
+ScenEdit_AddReferencePoint( {side="China",lat=	11.2955335	,lon=	118.7374553	})
+ScenEdit_AddReferencePoint( {side="China",lat=	7.6306874	,lon=	115.9946377	})
+ScenEdit_AddReferencePoint( {side="China",lat=	3.8900393	,lon=	112.7209523	})
+ScenEdit_AddReferencePoint( {side="China",lat=	3.6484257	,lon=	109.2193687	})
+ScenEdit_AddReferencePoint( {side="China",lat=	6.6717714	,lon=	108.2201767	})
+ScenEdit_AddReferencePoint( {side="China",lat=	9.2595993	,lon=	108.8350641	})
+ScenEdit_AddReferencePoint( {side="China",lat=	11.6780152	,lon=	110.1801302	})
+ScenEdit_AddReferencePoint( {side="China",lat=	13.5156927	,lon=	110.1801302	})
+ScenEdit_AddReferencePoint( {side="China",lat=	15.8575212	,lon=	109.2962296	})

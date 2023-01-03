@@ -1,0 +1,15 @@
+Taiwan/Republic of China Air Defense Identification Zone:
+
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	21	,lon=	117.5	})
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	29	,lon=	117.5	})
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	29	,lon=	123	})
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	23	,lon=	123	})
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	21	,lon=	121.5	})
+
+Taiwan/Republic of China Air Defense Identification Zone (using median line):
+
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	28.0134577	,lon=	123	})
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	23	,lon=	123	})
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	21	,lon=	121.5	})
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	21	,lon=	117.5	})
+ScenEdit_AddReferencePoint( {side="Taiwan",lat=	23	,lon=	117.5	})

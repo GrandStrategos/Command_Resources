@@ -1,0 +1,14 @@
+Korea Air Defense Information Zone:
+
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	39	,lon=	123.5	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	39	,lon=	133	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	37.28333333	,lon=	133	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	36	,lon=	130.5	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	35.21666667	,lon=	129.8	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	34.71666667	,lon=	129.15	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	34.28333333	,lon=	128.8666667	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	32.5	,lon=	127.5	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	32.5	,lon=	126.8333333	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	30	,lon=	125.4166667	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	30	,lon=	124	})
+ScenEdit_AddReferencePoint( {side="South Korea",lat=	37	,lon=	124	})

@@ -27,6 +27,6 @@
   * [**inst Designer**](https://commandops.github.io/inst-designer/) - Web-based application to create .inst Import/Export files within Google Maps.
 * [**IKE**](https://github.com/musurca/IKE) - PBEM/hotseat multiplayer for Command: Modern Operations scenarios. [GitHub @musurca]
 * [**AlphaSierraGaming - Naval Warfare Simulations**](https://alphasierragaming.com/home.htm) - Website containing videos, scenarios, news articles and other useful utilities.
-  * [**Roku Channel**](https://channelstore.roku.com/details/2db1aef487a22d8a14b24c3cdf979e3a/alphasierragaming)
+  * [**AlphaSierraGaming's Roku Channel**](https://channelstore.roku.com/details/2db1aef487a22d8a14b24c3cdf979e3a/alphasierragaming)
 * [**Command: Modern Operations Tutorials**](https://youtube.com/playlist?list=PLumwWCWlwh39mBwwGJh-LE4_KWwLobkoT) by P. Gatcomb - YouTube playlist of Command: Modern Operations tutorials.
 * [**Introductory Guide for New and Prospective Players**](https://steamcommunity.com/sharedfiles/filedetails/?id=1919334405) by Half life Expert - Frequently asked beginner questions answered.

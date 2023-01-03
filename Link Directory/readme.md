@@ -29,5 +29,5 @@
 * [**AlphaSierraGaming - Naval Warfare Simulations**](https://alphasierragaming.com/home.htm) - Website containing videos, scenarios, news articles and other useful utilities.
   * [**AlphaSierraGaming's Roku Channel**](https://channelstore.roku.com/details/2db1aef487a22d8a14b24c3cdf979e3a/alphasierragaming)
 * [**Command: Modern Operations Tutorials**](https://youtube.com/playlist?list=PLumwWCWlwh39mBwwGJh-LE4_KWwLobkoT) by P. Gatcomb - YouTube playlist of Command: Modern Operations tutorials.
-* [**Cristian Wang**](https://www.youtube.com/@cristianwang344) - Chinese-language tutorials and scenario playthroughs, with CC-translation still useful for non-speakers.
+* [**Cristian Wang**](https://www.youtube.com/@cristianwang344) - Chinese-language tutorials and scenario playthroughs on YouTube, with CC-translation still useful for non-speakers.
 * [**Introductory Guide for New and Prospective Players**](https://steamcommunity.com/sharedfiles/filedetails/?id=1919334405) by Half life Expert - Frequently asked beginner questions answered.

@@ -7,6 +7,10 @@
   * [**Steam**](https://store.steampowered.com/app/1076160/Command_Modern_Operations/)
 * [**Game Manual**](https://www.matrixgames.com/amazon/PDF/CMO/CMO_manual_EBOOK.pdf)
 * [**Official Forum**](https://www.matrixgames.com/forums/viewforum.php?f=10201)
+  * [**Mods and Scenarios**](https://www.matrixgames.com/forums/viewforum.php?f=10233)
+  * [**After Action Report**](https://www.matrixgames.com/forums/viewforum.php?f=10232)
+  * [**The War Room**](https://www.matrixgames.com/forums/viewforum.php?f=10237)
+  * [**Tech Support**](https://www.matrixgames.com/forums/viewforum.php?f=10230)
 * [**cmo-db-request**](https://github.com/PygmalionOfCyprus/cmo-db-requests) - Official public request/issue tracker for the Command: Modern Operations database. [GitHub]
 * [**CommandLua**](https://commandlua.github.io/) - Online documentation for the Command LUA API. [GitHub]
 * [**cmano-db.com**](https://cmano-db.com/) - Database viewer and compare for aircrafts, ships, submarines, facilities, sensors and weapons.

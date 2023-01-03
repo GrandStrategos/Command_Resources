@@ -1,0 +1,18 @@
+local u = ScenEdit_GetUnit({guid='1MXV18-0HMN9KJE0JMEL'}) --replace guid with the cargo host unit*/
+
+local type = 'ammo' -- (ammo,fuel) */
+local cnter_quantity = 15 -- int number container quantity*/
+local cntent_quantity = 5 -- int number content quantity*/
+local cnter_dbid = 9 --dbid of container*/
+local cntent_dbid = 2845 --dbid of content*/
+
+
+for i=1,cnter_quantity,1 do
+
+local test2 = u : createUnitCargo(4,cnter_dbid)
+if type == 'ammo' then
+test2 :createContainerContentAmmunition(cntent_dbid ,cntent_quantity)
+else 
+    test2 :createContainerContentFuel(cntent_dbid ,cntent_quantity)
+end
+end

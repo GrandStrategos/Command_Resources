@@ -26,3 +26,6 @@ The group operates on the official Matrix-run Discord server for Command, which 
 ![jindalee](https://user-images.githubusercontent.com/121643870/210034707-89b5c4ee-f67d-4815-b936-4dd147f78c26.png)
 
 ![norad](https://user-images.githubusercontent.com/121643870/210035026-689f5516-0152-4c97-9869-5e9f12fe3594.png)
+
+![usmc](https://user-images.githubusercontent.com/121643870/210839009-1acdb021-ba37-48ab-a271-7c34d1539ad6.png)
+

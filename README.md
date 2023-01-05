@@ -7,7 +7,7 @@ Using the functionality of GitHub, we aim to develop installation Import/Export 
 The group operates on the official Matrix-run Discord server for Command, which can be accessed [**here.**](https://discord.com/invite/4RjfxEs)
 
 ##### Instructions to download:
-
+* Download individual or full package from the Releases page, OR...
 * ![code](https://user-images.githubusercontent.com/121643870/210081699-d6534327-5b29-4fbf-8f3d-48ac381a4f82.png) > ![downloadzip](https://user-images.githubusercontent.com/121643870/210082013-802fbede-e4f7-4ac1-9c99-3580a0a2491a.png) > ![downloadbutton](https://user-images.githubusercontent.com/121643870/210082281-6ef86d27-0218-4fef-94a8-8553849088e6.png)
 * Alternatively, by copy and paste, you can (for Lua code) use the **Lua Script Console** within Command.
 * To download single files, you can open the file and right-click on ![raw](https://user-images.githubusercontent.com/121643870/210083664-198480aa-03a6-48fa-ad0c-3db12cb0be71.png) and click ![save](https://user-images.githubusercontent.com/121643870/210083693-965d1b0b-6fca-4ba2-9b5e-1e909e4fb129.png) within the context menu.

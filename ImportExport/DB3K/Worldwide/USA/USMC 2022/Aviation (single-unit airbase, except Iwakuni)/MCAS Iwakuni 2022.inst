@@ -1,0 +1,860 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 55,
+      "Member_GUID": "0498G2-0HMK55U8P04B2",
+      "MemberType": "Facility",
+      "MemberName": "Runway (2600m)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24661942251817,
+      "Latitude": 34.1435272230346,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 10.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P0645",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24169064373697,
+      "Latitude": 34.144201780898044,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMA-542 \"Tigers\" #9",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #11",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #3",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #7",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #5",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #12",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #1",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #6",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #10",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #8",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #4",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #2",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P063Q",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24239551503379,
+      "Latitude": 34.148183221538972,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMA-542 \"Tigers\" #13",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #4",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #1",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #16",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #2",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #14",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #3",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMA-542 \"Tigers\" #15",
+          "AC_DBID": 4592,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P063G",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24261699683947,
+      "Latitude": 34.149449800973223,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMGR-152 \"Sumos\" #9",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #10",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #8",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #7",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #5",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #6",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P063B",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24256452263072,
+      "Latitude": 34.142779967540356,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMGR-152 \"Sumos\" #14",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #11",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #15",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #12",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMGR-152 \"Sumos\" #13",
+          "AC_DBID": 4299,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P0636",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24130472055094,
+      "Latitude": 34.143096801604557,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 320,
+      "Member_GUID": "0498G2-0HMK55U8P04EV",
+      "MemberType": "Facility",
+      "MemberName": "Ammo Revetment",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24000189665946,
+      "Latitude": 34.151049726996256,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 320,
+      "Member_GUID": "0498G2-0HMK55U8P04EL",
+      "MemberType": "Facility",
+      "MemberName": "Ammo Revetment",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.23954679624464,
+      "Latitude": 34.148527739493005,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 83,
+      "Member_GUID": "0498G2-0HMK55U8P04EG",
+      "MemberType": "Facility",
+      "MemberName": "AvGas (750k Liter Tank)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.23874313986303,
+      "Latitude": 34.144921591925055,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 83,
+      "Member_GUID": "0498G2-0HMK55U8P04EB",
+      "MemberType": "Facility",
+      "MemberName": "AvGas (750k Liter Tank)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.23855693886119,
+      "Latitude": 34.1431558879052,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 83,
+      "Member_GUID": "0498G2-0HMK55U8P04E6",
+      "MemberType": "Facility",
+      "MemberName": "AvGas (750k Liter Tank)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.23817605558608,
+      "Latitude": 34.141680584002721,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P04E1",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24380449415472,
+      "Latitude": 34.149628437984973,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMFA-242 \"Bats\" #2",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #3",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #11",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #12",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #8",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #4",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #1",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #10",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #9",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #5",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #6",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #7",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P04DN",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24338505117845,
+      "Latitude": 34.148056715400635,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMFA-121 \"Green Knights\" #3",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #1",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #13",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #4",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #5",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #7",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #8",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #2",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #14",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #6",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #16",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-242 \"Bats\" #15",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P04DI",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24254949387193,
+      "Latitude": 34.143601385881055,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMFA-121 \"Green Knights\" #16",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #13",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #14",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #4",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #9",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #10",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #1",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #11",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #15",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #2",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #3",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-121 \"Green Knights\" #12",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 353,
+      "Member_GUID": "0498G2-0HMK55U8P04D8",
+      "MemberType": "Facility",
+      "MemberName": "Runway Access Point (Very Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24536019330759,
+      "Latitude": 34.137695096143609,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 353,
+      "Member_GUID": "0498G2-0HMK55U8P04CU",
+      "MemberType": "Facility",
+      "MemberName": "Runway Access Point (Very Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24764258846531,
+      "Latitude": 34.149584013679672,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 353,
+      "Member_GUID": "0498G2-0HMK55U8P04CP",
+      "MemberType": "Facility",
+      "MemberName": "Runway Access Point (Very Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24699674848989,
+      "Latitude": 34.146182005628589,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 353,
+      "Member_GUID": "0498G2-0HMK55U8P04CK",
+      "MemberType": "Facility",
+      "MemberName": "Runway Access Point (Very Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.2445933156958,
+      "Latitude": 34.134190700365174,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1423,
+      "Member_GUID": "0498G2-0HMK55U8P04BC",
+      "MemberType": "Facility",
+      "MemberName": "Runway-Grade Taxiway (2600m)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24858049630441,
+      "Latitude": 34.145697838739451,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 10.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 1423,
+      "Member_GUID": "0498G2-0HMK55U8P04B7",
+      "MemberType": "Facility",
+      "MemberName": "Runway-Grade Taxiway (2600m)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.2446931812357,
+      "Latitude": 34.142439706515248,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 10.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P0640",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24132176533934,
+      "Latitude": 34.14200084506399,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 320,
+      "Member_GUID": "0498G2-0HMK55U8P04EQ",
+      "MemberType": "Facility",
+      "MemberName": "Ammo Revetment",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.23993344690325,
+      "Latitude": 34.149804831262045,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 216,
+      "Member_GUID": "0498G2-0HMK55U8P04DD",
+      "MemberType": "Facility",
+      "MemberName": "A/C Hangar (8x Large Aircraft)",
+      "ParentGroupName": "MCAS Iwakuni (RJOI) ",
+      "Longitude": 132.24208933344772,
+      "Latitude": 34.141310149620836,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMFA-225 \"Vikings\" #8",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #14",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #15",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #16",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #12",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #11",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #5",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #9",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #6",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #7",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #13",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-225 \"Vikings\" #10",
+          "AC_DBID": 3496,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "2022",
+  "ValidUntil": "",
+  "Name": "MCAS Iwakuni (RJOI)",
+  "Comments": "Elements of MAG-11, MAG-12, and MAG-13 currently based at Marine Corps Air Statrion Iwakuni"
+}

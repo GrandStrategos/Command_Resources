@@ -1,0 +1,4453 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 3149,
+      "Member_GUID": "0498G2-0HMK2VDA2N67V",
+      "MemberType": "Ship",
+      "MemberName": "USS Port Royal (CG-73)",
+      "ParentGroupName": null,
+      "Longitude": -157.92896082299524,
+      "Latitude": 21.243047009115088,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3551,
+      "Member_GUID": "0498G2-0HMK29LJ4RB1D",
+      "MemberType": "Ship",
+      "MemberName": "USS Carl Vinson (CVN-70)",
+      "ParentGroupName": "CSG-1",
+      "Longitude": -119.30560480514318,
+      "Latitude": 32.686940443250442,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #4",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-113 \"Black Eagles\" #2",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"Gauntlets\" #1",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #6",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-113 \"Black Eagles\" #1",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #14",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #13",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #3",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #2",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #9",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-113 \"Black Eagles\" #5",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #12",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #10",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-113 \"Black Eagles\" #3",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #7",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-113 \"Black Eagles\" #4",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #8",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-192 \"Golden Dragons\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-2 \"Bounty Hunters\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #11",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #1",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-113 \"Stingers\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-147 \"Argonauts\" #5",
+          "AC_DBID": 4871,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #7",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-4 \"Black Knights\" #2",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-4 \"Black Knights\" #3",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-4 \"Black Knights\" #6",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #4",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #6",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #11",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-30 \"Providers\" Det. 2 #1",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #2",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #5",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"Gauntlets\" #7",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"Gauntlets\" #3",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-4 \"Black Knights\" #1",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"Gauntlets\" #6",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-30 \"Providers\" Det. 2 #2",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-4 \"Black Knights\" #8",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"Gauntlets\" #4",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-4 \"Black Knights\" #5",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-4 \"Black Knights\" #4",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #9",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"Gauntlets\" #2",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #1",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #10",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"Gauntlets\" #5",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #3",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-78 \"Blue Hawks\" #8",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-4 \"Black Knights\" #7",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2864,
+      "Member_GUID": "0498G2-0HMK29LJ558O9",
+      "MemberType": "Ship",
+      "MemberName": "USS Lake Erie (CG-70)",
+      "ParentGroupName": "CSG-1",
+      "Longitude": -119.31447705603971,
+      "Latitude": 32.695007771940261,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2862,
+      "Member_GUID": "0498G2-0HMK29LJ559BG",
+      "MemberType": "Ship",
+      "MemberName": "USS Princeton (CG-59)",
+      "ParentGroupName": "CSG-1",
+      "Longitude": -119.3002939295812,
+      "Latitude": 32.695897724160368,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2870,
+      "Member_GUID": "0498G2-0HMK29LJ55LSI",
+      "MemberType": "Ship",
+      "MemberName": "USS Howard (DDG-83)",
+      "ParentGroupName": "CSG-1",
+      "Longitude": -119.31681568877134,
+      "Latitude": 32.686090691955933,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3147,
+      "Member_GUID": "0498G2-0HMK29LJ55MDF",
+      "MemberType": "Ship",
+      "MemberName": "USS Shoup (DDG-86)",
+      "ParentGroupName": "CSG-1",
+      "Longitude": -119.29479072219473,
+      "Latitude": 32.689127251729708,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3151,
+      "Member_GUID": "0498G2-0HMK29LJ55N0E",
+      "MemberType": "Ship",
+      "MemberName": "USS Sterett (DDG-104)",
+      "ParentGroupName": "CSG-1",
+      "Longitude": -119.31074345790202,
+      "Latitude": 32.680038630035405,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2868,
+      "Member_GUID": "0498G2-0HMK29LJ55NHO",
+      "MemberType": "Ship",
+      "MemberName": "USS Higgins (DDG-76)",
+      "ParentGroupName": "CSG-1",
+      "Longitude": -119.29843251775243,
+      "Latitude": 32.68071243042089,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 357.3001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2868,
+      "Member_GUID": "0498G2-0HMK29LJ55O3K",
+      "MemberType": "Ship",
+      "MemberName": "USS O'Kane (DDG-77)",
+      "ParentGroupName": "CSG-1",
+      "Longitude": -119.30434754915606,
+      "Latitude": 32.675195134851307,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 357.3001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3553,
+      "Member_GUID": "0498G2-0HMK2VDA2EC3H",
+      "MemberType": "Ship",
+      "MemberName": "USS Abraham Lincoln (CVN-72)",
+      "ParentGroupName": "CSG-3",
+      "Longitude": -118.96529884496673,
+      "Latitude": 32.488899101120126,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMFA-314 \"Black Knights\" #10",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #12",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #4",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-133 \"Wizards\" #2",
+          "AC_DBID": 4518,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #3",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #11",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-133 \"Wizards\" #4",
+          "AC_DBID": 4518,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #7",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #6",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #2",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-133 \"Wizards\" #3",
+          "AC_DBID": 4518,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-14 \"Chargers\" #1",
+          "AC_DBID": 5337,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #13",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #9",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-41 \"Black Aces\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #5",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-151 \"Vigilantes\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #1",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-14 \"Tophatters\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #14",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-314 \"Black Knights\" #8",
+          "AC_DBID": 4935,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-133 \"Wizards\" #1",
+          "AC_DBID": 4518,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-117 \"Wallbangers\" #1",
+          "AC_DBID": 4293,
+          "Loadout_ID": 14629,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-14 \"Chargers\" #3",
+          "AC_DBID": 5337,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-133 \"Wizards\" #5",
+          "AC_DBID": 4518,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-14 \"Chargers\" #7",
+          "AC_DBID": 5337,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-117 \"Wallbangers\" #3",
+          "AC_DBID": 4293,
+          "Loadout_ID": 14629,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-14 \"Chargers\" #5",
+          "AC_DBID": 5337,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #9",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-14 \"Chargers\" #6",
+          "AC_DBID": 5337,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #8",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-117 \"Wallbangers\" #2",
+          "AC_DBID": 4293,
+          "Loadout_ID": 14629,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-14 \"Chargers\" #8",
+          "AC_DBID": 5337,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #11",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRM-30 Det. 1  \"Titans\" #2",
+          "AC_DBID": 4558,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #7",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #1",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #5",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-117 \"Wallbangers\" #4",
+          "AC_DBID": 4293,
+          "Loadout_ID": 14629,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRM-30 Det. 1  \"Titans\" #1",
+          "AC_DBID": 4558,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-14 \"Chargers\" #2",
+          "AC_DBID": 5337,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #3",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #4",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #10",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-14 \"Chargers\" #4",
+          "AC_DBID": 5337,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #2",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-71 \"Raptors\" #6",
+          "AC_DBID": 5338,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-117 \"Wallbangers\" #5",
+          "AC_DBID": 4293,
+          "Loadout_ID": 14629,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2859,
+      "Member_GUID": "0498G2-0HMK2VDA2EEFL",
+      "MemberType": "Ship",
+      "MemberName": "USS Mobile Bay (CG-53)",
+      "ParentGroupName": "CSG-3",
+      "Longitude": -118.96751020843571,
+      "Latitude": 32.490505813820988,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2861,
+      "Member_GUID": "0498G2-0HMK2VDA2EFCE",
+      "MemberType": "Ship",
+      "MemberName": "USS Lake Champlain (CG-57)",
+      "ParentGroupName": "CSG-3",
+      "Longitude": -118.96340675790798,
+      "Latitude": 32.490714727619178,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3209,
+      "Member_GUID": "0498G2-0HMK2VDA2EFS4",
+      "MemberType": "Ship",
+      "MemberName": "USS Dewey (DDG-105)",
+      "ParentGroupName": "CSG-3",
+      "Longitude": -118.96876085548799,
+      "Latitude": 32.488881876597979,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3151,
+      "Member_GUID": "0498G2-0HMK2VDA2EK9I",
+      "MemberType": "Ship",
+      "MemberName": "USS Spruance (DDG-111)",
+      "ParentGroupName": "CSG-3",
+      "Longitude": -118.96174423548315,
+      "Latitude": 32.489140808754961,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2868,
+      "Member_GUID": "0498G2-0HMK2VDA2EKQH",
+      "MemberType": "Ship",
+      "MemberName": "USS Decatur (DDG-73)",
+      "ParentGroupName": "CSG-3",
+      "Longitude": -118.96733599731277,
+      "Latitude": 32.487351140387858,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3151,
+      "Member_GUID": "0498G2-0HMK2VDA2ELC2",
+      "MemberType": "Ship",
+      "MemberName": "USS Stockdale (DDG-106)",
+      "ParentGroupName": "CSG-3",
+      "Longitude": -118.96308967387608,
+      "Latitude": 32.487414967417259,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 357.3001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK2VDA2ELT1",
+      "MemberType": "Ship",
+      "MemberName": "USS Stethem (DDG-63)",
+      "ParentGroupName": "CSG-3",
+      "Longitude": -118.9647201807973,
+      "Latitude": 32.485730862130836,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 357.3001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3552,
+      "Member_GUID": "0498G2-0HMK2VDA2ENNO",
+      "MemberType": "Ship",
+      "MemberName": "USS Theodore Rossevelt (CVN-71)",
+      "ParentGroupName": "CSG-9",
+      "Longitude": -119.30101940611007,
+      "Latitude": 32.383751385242682,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VFA-31 \"Tomcatters\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-115 \"Liberty Bells\" #1",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #6",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-8 \"Eightballers\"  #1",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-115 \"Liberty Bells\" #4",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #10",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-8 \"Eightballers\"  #8",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-8 \"Eightballers\"  #3",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-115 \"Liberty Bells\" #3",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-8 \"Eightballers\"  #5",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-8 \"Eightballers\"  #2",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-115 \"Liberty Bells\" #2",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #7",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #9",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #5",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #2",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #8",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #1",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-30 Det. 3 \"Providers\"  #1",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-8 \"Eightballers\"  #6",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #4",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-8 \"Eightballers\"  #7",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #3",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-30 Det. 3 \"Providers\"  #2",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-75 \"Wolfpack\" #11",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-8 \"Eightballers\"  #4",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-31 \"Tomcatters\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-154 \"Black Knights\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"The Gauntlets\" #2",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"The Gauntlets\" #1",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"The Gauntlets\" #4",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"The Gauntlets\" #3",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-136 \"The Gauntlets\" #5",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-146 \"Blue Diamonds\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2859,
+      "Member_GUID": "0498G2-0HMK2VDA2EVJD",
+      "MemberType": "Ship",
+      "MemberName": "USS Bunker Hill (CG-52)",
+      "ParentGroupName": "CSG-9",
+      "Longitude": -119.30475860304424,
+      "Latitude": 32.386411727526564,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3149,
+      "Member_GUID": "0498G2-0HMK2VDA2F02O",
+      "MemberType": "Ship",
+      "MemberName": "USS Cape St. George (CG-71)",
+      "ParentGroupName": "CSG-9",
+      "Longitude": -119.29805391578809,
+      "Latitude": 32.386667151198331,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK2VDA2F0JO",
+      "MemberType": "Ship",
+      "MemberName": "USS Russell (DDG-59)",
+      "ParentGroupName": "CSG-9",
+      "Longitude": -119.30763605654511,
+      "Latitude": 32.382985536396653,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK2VDA2F12M",
+      "MemberType": "Ship",
+      "MemberName": "USS Paul Hamilton (DDG-60)",
+      "ParentGroupName": "CSG-9",
+      "Longitude": -119.29499023639428,
+      "Latitude": 32.383770963531887,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2866,
+      "Member_GUID": "0498G2-0HMK2VDA2F1HK",
+      "MemberType": "Ship",
+      "MemberName": "USS Rafael Peralta (DDG-115)",
+      "ParentGroupName": "CSG-9",
+      "Longitude": -119.30424507800636,
+      "Latitude": 32.3799066160899,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2872,
+      "Member_GUID": "0498G2-0HMK2VDA2F22O",
+      "MemberType": "Ship",
+      "MemberName": "USS Pinckney (DDG-91)",
+      "ParentGroupName": "CSG-9",
+      "Longitude": -119.29743056649251,
+      "Latitude": 32.379693600696115,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 357.3001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2866,
+      "Member_GUID": "0498G2-0HMK2VDA2F2JS",
+      "MemberType": "Ship",
+      "MemberName": "USS John Finn (DDG-113)",
+      "ParentGroupName": "CSG-9",
+      "Longitude": -119.30096506072705,
+      "Latitude": 32.376829327333716,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 359.620758,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3549,
+      "Member_GUID": "0498G2-0HMK2VDA2F38I",
+      "MemberType": "Ship",
+      "MemberName": "USS Nimitz (CVN-68)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90589765548909,
+      "Latitude": 47.729025653274292,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #5",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #8",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #5",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #3",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #3",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #1",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-116 \"Sun Kings\" #1",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #9",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #1",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #6",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #2",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #4",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-116 \"Sun Kings\" #3",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-116 \"Sun Kings\" #2",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #7",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #10",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #4",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #2",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #1",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #1",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #10",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #2",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #7",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #7",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #9",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #8",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #8",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #5",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #4",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #3",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #5",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #6",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #3",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-30 Det. 4 \"Providers\" #1",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #11",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-116 \"Sun Kings\" #4",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #4",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-30 Det. 4 \"Providers\" #2",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #2",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #6",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3152,
+      "Member_GUID": "0498G2-0HMK2VDA2FGHU",
+      "MemberType": "Ship",
+      "MemberName": "USS Chosin (CG-65)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90614389555235,
+      "Latitude": 47.732186761714587,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2873,
+      "Member_GUID": "0498G2-0HMK2VDA2FK5O",
+      "MemberType": "Ship",
+      "MemberName": "USS Gridley (DDG-101)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90989863802145,
+      "Latitude": 47.730443253653206,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2873,
+      "Member_GUID": "0498G2-0HMK2VDA2FMIH",
+      "MemberType": "Ship",
+      "MemberName": "USS Kidd (DDG-100)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90083068592472,
+      "Latitude": 47.731003547104322,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3148,
+      "Member_GUID": "0498G2-0HMK2VDA2FP5M",
+      "MemberType": "Ship",
+      "MemberName": "USS Momsen (DDG-92)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.91171749615296,
+      "Latitude": 47.727051856246419,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2866,
+      "Member_GUID": "0498G2-0HMK2VDA2FR5A",
+      "MemberType": "Ship",
+      "MemberName": "USS Ralph Johnson (DDG-114)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.89995897427137,
+      "Latitude": 47.727492704206234,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 357.3001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2873,
+      "Member_GUID": "0498G2-0HMK2VDA2FT8H",
+      "MemberType": "Ship",
+      "MemberName": "USS Sampson (DDG-102)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90561702516349,
+      "Latitude": 47.72382908265233,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 357.924561,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK2VDA2N6ON",
+      "MemberType": "Ship",
+      "MemberName": "USS Hopper (DDG-70)",
+      "ParentGroupName": "DESRON-31",
+      "Longitude": -157.92690672873195,
+      "Latitude": 21.197605268970573,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3209,
+      "Member_GUID": "0498G2-0HMK2VDA2N7N0",
+      "MemberType": "Ship",
+      "MemberName": "USS Michael Murphy (DDG-112)",
+      "ParentGroupName": "DESRON-31",
+      "Longitude": -157.935506319655,
+      "Latitude": 21.195148907510838,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK2VDA2N881",
+      "MemberType": "Ship",
+      "MemberName": "USS John Paul Jones (DDG-53)",
+      "ParentGroupName": "DESRON-31",
+      "Longitude": -157.93613543832257,
+      "Latitude": 21.201224799463333,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_0498G2-0HMK2VDA2N881>\r\n        <!--USS John Paul Jones (DDG-53) (DDG 53 John Paul Jones [Arleigh Burke Flight I] [3194])-->\r\n        <SetFuel_3003_1299997 />\r\n    </Unit_0498G2-0HMK2VDA2N881>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 3209,
+      "Member_GUID": "0498G2-0HMK2VDA2N8MV",
+      "MemberType": "Ship",
+      "MemberName": "USS Wayne E. Meyer (DDG-108)",
+      "ParentGroupName": "DESRON-31",
+      "Longitude": -157.93088274920052,
+      "Latitude": 21.190837644918297,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_0498G2-0HMK2VDA2N8MV>\r\n        <!--USS Wayne E. Meyer (DDG-108) (DDG 105 Dewey [Arleigh Burke Flight IIA] [3209])-->\r\n        <SetFuel_3003_1299997 />\r\n    </Unit_0498G2-0HMK2VDA2N8MV>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 3209,
+      "Member_GUID": "0498G2-0HMK2VDA2N980",
+      "MemberType": "Ship",
+      "MemberName": "USS William P. Lawrence (DDG-110)",
+      "ParentGroupName": "DESRON-31",
+      "Longitude": -157.93098544788816,
+      "Latitude": 21.205144395483934,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_0498G2-0HMK2VDA2N980>\r\n        <!--USS William P. Lawrence (DDG-110) (DDG 105 Dewey [Arleigh Burke Flight IIA] [3209])-->\r\n        <SetFuel_3003_1299997 />\r\n    </Unit_0498G2-0HMK2VDA2N980>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 3148,
+      "Member_GUID": "0498G2-0HMK2VDA2N9P1",
+      "MemberType": "Ship",
+      "MemberName": "USS Chung-Hoon (DDG-93)",
+      "ParentGroupName": "DESRON-31",
+      "Longitude": -157.922579028402,
+      "Latitude": 21.190347565836053,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_0498G2-0HMK2VDA2N9P1>\r\n        <!--USS Chung-Hoon (DDG-93) (DDG 92 Momsen [Arleigh Burke Flight IIA] [3148])-->\r\n        <SetFuel_3003_1299997 />\r\n    </Unit_0498G2-0HMK2VDA2N9P1>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 2873,
+      "Member_GUID": "0498G2-0HMK2VDA2NAA0",
+      "MemberType": "Ship",
+      "MemberName": "USS Halsey (DDG-97)",
+      "ParentGroupName": "DESRON-31",
+      "Longitude": -157.91680092338567,
+      "Latitude": 21.194953835702318,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_0498G2-0HMK2VDA2NAA0>\r\n        <!--USS Halsey (DDG-97) (DDG 96 Bainbridge [Arleigh Burke Flight IIA] [2873])-->\r\n        <SetFuel_3003_1299997 />\r\n    </Unit_0498G2-0HMK2VDA2NAA0>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 3140,
+      "Member_GUID": "0498G2-0HMK2VDA2NAQP",
+      "MemberType": "Ship",
+      "MemberName": "USS Preble (DDG-88)",
+      "ParentGroupName": "DESRON-31",
+      "Longitude": -157.92310464529771,
+      "Latitude": 21.204751390184516,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_0498G2-0HMK2VDA2NAQP>\r\n        <!--USS Preble (DDG-88) (DDG 88 Preble [Arleigh Burke Flight IIA] [3140])-->\r\n        <SetFuel_3003_1299997 />\r\n    </Unit_0498G2-0HMK2VDA2NAQP>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 3140,
+      "Member_GUID": "0498G2-0HMK2VDA2NBBF",
+      "MemberType": "Ship",
+      "MemberName": "USS Chafee (DDG-90)",
+      "ParentGroupName": "DESRON-31",
+      "Longitude": -157.9173246328532,
+      "Latitude": 21.201224651173074,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_0498G2-0HMK2VDA2NBBF>\r\n        <!--USS Chafee (DDG-90) (DDG 88 Preble [Arleigh Burke Flight IIA] [3140])-->\r\n        <SetFuel_3003_1299997 />\r\n    </Unit_0498G2-0HMK2VDA2NBBF>\r\n</DeltaUnit>"
+    },
+    {
+      "Member_DBID": 3563,
+      "Member_GUID": "0498G2-0HMK336B7DNNK",
+      "MemberType": "Ship",
+      "MemberName": "USS Tripoli (LHA-7)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.91038441980069,
+      "Latitude": 32.161280163112814,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3561,
+      "Member_GUID": "0498G2-0HMK336B7DO04",
+      "MemberType": "Ship",
+      "MemberName": "USS Essex (LHD-2)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.93607744575145,
+      "Latitude": 32.177480384710705,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3561,
+      "Member_GUID": "0498G2-0HMK336B7DO8B",
+      "MemberType": "Ship",
+      "MemberName": "USS Boxer (LHD-4)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.88785550087656,
+      "Latitude": 32.176931045798028,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3561,
+      "Member_GUID": "0498G2-0HMK336B7DOG7",
+      "MemberType": "Ship",
+      "MemberName": "USS Bonhomme Richard (LHD-6)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.93671409836061,
+      "Latitude": 32.144937531551143,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.9000001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3562,
+      "Member_GUID": "0498G2-0HMK336B7DOO3",
+      "MemberType": "Ship",
+      "MemberName": "USS Makin Island (LHD-8)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.88395164233515,
+      "Latitude": 32.143836759160756,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 359.099945,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2599,
+      "Member_GUID": "0498G2-0HMK336B7DP0A",
+      "MemberType": "Ship",
+      "MemberName": "USS Portland (LPD-27)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.96277943448962,
+      "Latitude": 32.157062079416832,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.9000001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2599,
+      "Member_GUID": "0498G2-0HMK336B7DPGB",
+      "MemberType": "Ship",
+      "MemberName": "USS John P. Murtha (LPD-26)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.85853784433493,
+      "Latitude": 32.159823488622678,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 359.099945,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2599,
+      "Member_GUID": "0498G2-0HMK336B7DPLP",
+      "MemberType": "Ship",
+      "MemberName": "USS San Diego ((LPD-22)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.91457753438114,
+      "Latitude": 32.197894704297219,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2599,
+      "Member_GUID": "0498G2-0HMK336B7DPR7",
+      "MemberType": "Ship",
+      "MemberName": "USS Anchorage (LPD-23)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.88395953211473,
+      "Latitude": 32.116259938485648,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 359.099945,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2599,
+      "Member_GUID": "0498G2-0HMK336B7DQ0L",
+      "MemberType": "Ship",
+      "MemberName": "USS Somerset (LPD-25)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.93410063614169,
+      "Latitude": 32.117360406436262,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.9000001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2600,
+      "Member_GUID": "0498G2-0HMK336B7DQ63",
+      "MemberType": "Ship",
+      "MemberName": "USS Cornstock (LSD-45)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.9660709490755,
+      "Latitude": 32.197882830258763,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2600,
+      "Member_GUID": "0498G2-0HMK336B7DQCH",
+      "MemberType": "Ship",
+      "MemberName": "USS Rushmore (LPD-47)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.86243031680539,
+      "Latitude": 32.20119697168753,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2601,
+      "Member_GUID": "0498G2-0HMK336B7DQIG",
+      "MemberType": "Ship",
+      "MemberName": "USS Harpers Ferry (LSD-49)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.96536482143958,
+      "Latitude": 32.124518231871818,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 2.69999981,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 416,
+      "Member_GUID": "0498G2-0HMK336B7DQPN",
+      "MemberType": "Ship",
+      "MemberName": "USS Pearl Harbor (LSD-52)",
+      "ParentGroupName": "ESG-3",
+      "Longitude": -118.85855749725221,
+      "Latitude": 32.127285014444013,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 357.3001,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7DVP2",
+      "MemberType": "Ship",
+      "MemberName": "USS Independence (LCS-2)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.93770633508017,
+      "Latitude": 32.649040026013061,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7DVV1",
+      "MemberType": "Ship",
+      "MemberName": "USS Fort Worth (LCS-3)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.96762741704259,
+      "Latitude": 32.625512189741755,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 4.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E03U",
+      "MemberType": "Ship",
+      "MemberName": "USS Coronado (LCS-4)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.90552906569192,
+      "Latitude": 32.629162067751608,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 355.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E08R",
+      "MemberType": "Ship",
+      "MemberName": "USS Jackson (LCS-6)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.99703230043915,
+      "Latitude": 32.594314132503946,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 4.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E0DO",
+      "MemberType": "Ship",
+      "MemberName": "USS Cincinatti (LCS-20)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.93387114027082,
+      "Latitude": 32.590637883579383,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 356.837067,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E0IL",
+      "MemberType": "Ship",
+      "MemberName": "USS Montgomery (LCS-8)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.86961829425962,
+      "Latitude": 32.592435326578951,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 355.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E0NI",
+      "MemberType": "Ship",
+      "MemberName": "USS Gabrielle Giffords (LCS-10)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -118.00137257589036,
+      "Latitude": 32.544762943683011,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 4.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E0SF",
+      "MemberType": "Ship",
+      "MemberName": "USS Omaha (LCS-12)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.93606357035347,
+      "Latitude": 32.545678529350795,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 359.2343,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E11C",
+      "MemberType": "Ship",
+      "MemberName": "USS Manchester (LCS-14)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.86422232522386,
+      "Latitude": 32.547470732984571,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 355.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E169",
+      "MemberType": "Ship",
+      "MemberName": "USS Tulsa (LCS-16)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.97089648606651,
+      "Latitude": 32.494294852690693,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 4.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E1B6",
+      "MemberType": "Ship",
+      "MemberName": "USS Charleston (LCS-18)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.89582922345295,
+      "Latitude": 32.4942623601398,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 355.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2595,
+      "Member_GUID": "0498G2-0HMK336B7E1G3",
+      "MemberType": "Ship",
+      "MemberName": "USS Kansas City (LCS-22)",
+      "ParentGroupName": "LCSRON-1",
+      "Longitude": -117.928484261456,
+      "Latitude": 32.457564639172347,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 357.680664,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2116,
+      "Member_GUID": "0498G2-0HMK336B7E1N0",
+      "MemberType": "Ship",
+      "MemberName": "USS Ardent (MCM-12)",
+      "ParentGroupName": "MCMRON-3",
+      "Longitude": -118.18980100458117,
+      "Latitude": 33.036118194767859,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2116,
+      "Member_GUID": "0498G2-0HMK336B7E1PF",
+      "MemberType": "Ship",
+      "MemberName": "USS Champion (MCM-4)",
+      "ParentGroupName": "MCMRON-3",
+      "Longitude": -118.20187156148504,
+      "Latitude": 33.02796938334582,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 13.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2116,
+      "Member_GUID": "0498G2-0HMK336B7E1QL",
+      "MemberType": "Ship",
+      "MemberName": "USS Scout (MCM-8)",
+      "ParentGroupName": "MCMRON-3",
+      "Longitude": -118.17658195010374,
+      "Latitude": 33.028264072584328,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 346.5,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7E429",
+      "MemberType": "Submarine",
+      "MemberName": "USS Charlotte (SSN-766)",
+      "ParentGroupName": "SUBRON-1",
+      "Longitude": -158.55814735621112,
+      "Latitude": 20.786720177035534,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 685,
+      "Member_GUID": "0498G2-0HMK336B7E4FD",
+      "MemberType": "Submarine",
+      "MemberName": "USS Greenville (SSN-772)",
+      "ParentGroupName": "SUBRON-1",
+      "Longitude": -158.6047239359155,
+      "Latitude": 20.832120651359855,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 651,
+      "Member_GUID": "0498G2-0HMK336B7E4UL",
+      "MemberType": "Submarine",
+      "MemberName": "USS Texas (SSN-775)",
+      "ParentGroupName": "SUBRON-1",
+      "Longitude": -158.65491253129028,
+      "Latitude": 20.792826895538003,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 651,
+      "Member_GUID": "0498G2-0HMK336B7E5AK",
+      "MemberType": "Submarine",
+      "MemberName": "USS Hawaii (SSN-776)",
+      "ParentGroupName": "SUBRON-1",
+      "Longitude": -158.60776300502451,
+      "Latitude": 20.74975248118632,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 651,
+      "Member_GUID": "0498G2-0HMK336B7E5M8",
+      "MemberType": "Submarine",
+      "MemberName": "USS North Carolina (SSN-777)",
+      "ParentGroupName": "SUBRON-1",
+      "Longitude": -158.51352058799074,
+      "Latitude": 20.836917765195768,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 562,
+      "Member_GUID": "0498G2-0HMK336B7E6DB",
+      "MemberType": "Submarine",
+      "MemberName": "USS Missouri (SSN-780)",
+      "ParentGroupName": "SUBRON-1",
+      "Longitude": -158.46947993583788,
+      "Latitude": 20.789018859443477,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 562,
+      "Member_GUID": "0498G2-0HMK336B7E6OG",
+      "MemberType": "Submarine",
+      "MemberName": "USS Mississippi (SSN-782)",
+      "ParentGroupName": "SUBRON-1",
+      "Longitude": -158.51046749823576,
+      "Latitude": 20.74497366558629,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 675,
+      "Member_GUID": "0498G2-0HMK336B7E74O",
+      "MemberType": "Submarine",
+      "MemberName": "USS Illnois (SSN-786)",
+      "ParentGroupName": "SUBRON-1",
+      "Longitude": -158.55766149550732,
+      "Latitude": 20.709303125508612,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 683,
+      "Member_GUID": "0498G2-0HMK336B7E7HD",
+      "MemberType": "Submarine",
+      "MemberName": "USS Chicago (SSN-721)",
+      "ParentGroupName": "SUBRON-7",
+      "Longitude": -158.02656991007711,
+      "Latitude": 20.745036282184902,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7E7T9",
+      "MemberType": "Submarine",
+      "MemberName": "USS Jefferson City (SSN-759)",
+      "ParentGroupName": "SUBRON-7",
+      "Longitude": -158.05256830917281,
+      "Latitude": 20.781609238956666,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7E89D",
+      "MemberType": "Submarine",
+      "MemberName": "USS Springfield (SSN-761)",
+      "ParentGroupName": "SUBRON-7",
+      "Longitude": -158.09015037142854,
+      "Latitude": 20.747489223997789,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7E8LH",
+      "MemberType": "Submarine",
+      "MemberName": "USS Santa Fe (SSN-763)",
+      "ParentGroupName": "SUBRON-7",
+      "Longitude": -158.05256441391083,
+      "Latitude": 20.712862419516398,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7E91L",
+      "MemberType": "Submarine",
+      "MemberName": "USS Tucson (SSN-770)",
+      "ParentGroupName": "SUBRON-7",
+      "Longitude": -157.99673219456736,
+      "Latitude": 20.786258214511687,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 685,
+      "Member_GUID": "0498G2-0HMK336B7E9DP",
+      "MemberType": "Submarine",
+      "MemberName": "USS Columbia (SSN-771)",
+      "ParentGroupName": "SUBRON-7",
+      "Longitude": -157.97297579218807,
+      "Latitude": 20.747483068312498,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 550,
+      "Member_GUID": "0498G2-0HMK336B7EA5J",
+      "MemberType": "Submarine",
+      "MemberName": "USS Cheyenne (SSN-773)",
+      "ParentGroupName": "SUBRON-7",
+      "Longitude": -157.9945446240618,
+      "Latitude": 20.703035700621598,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 661,
+      "Member_GUID": "0498G2-0HMK336B7ECMS",
+      "MemberType": "Submarine",
+      "MemberName": "USS Henry M. Jackson (SSBN-730)",
+      "ParentGroupName": "SUBRON-17",
+      "Longitude": -126.07052968316886,
+      "Latitude": 48.1413302956171,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 661,
+      "Member_GUID": "0498G2-0HMK336B7ECSK",
+      "MemberType": "Submarine",
+      "MemberName": "USS Alabama (SSBN-731)",
+      "ParentGroupName": "SUBRON-17",
+      "Longitude": -126.15588461051119,
+      "Latitude": 48.194015091256489,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 661,
+      "Member_GUID": "0498G2-0HMK336B7ED2C",
+      "MemberType": "Submarine",
+      "MemberName": "USS Nevada (SSBN-733)",
+      "ParentGroupName": "SUBRON-17",
+      "Longitude": -126.22256080997016,
+      "Latitude": 48.139947809122596,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 1.125,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 662,
+      "Member_GUID": "0498G2-0HMK336B7EDA4",
+      "MemberType": "Submarine",
+      "MemberName": "USS Pennsylvania (SSBN-735)",
+      "ParentGroupName": "SUBRON-17",
+      "Longitude": -126.15924762024326,
+      "Latitude": 48.091516657150017,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 1.125,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 662,
+      "Member_GUID": "0498G2-0HMK336B7EDQC",
+      "MemberType": "Submarine",
+      "MemberName": "USS Kentucky (SSBN-737)",
+      "ParentGroupName": "SUBRON-17",
+      "Longitude": -126.00244709825057,
+      "Latitude": 48.204000077245531,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 662,
+      "Member_GUID": "0498G2-0HMK336B7EE0I",
+      "MemberType": "Submarine",
+      "MemberName": "USS Nebraska (SSBN-739)",
+      "ParentGroupName": "SUBRON-17",
+      "Longitude": -125.92397592243722,
+      "Latitude": 48.149052201093895,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 662,
+      "Member_GUID": "0498G2-0HMK336B7EE6O",
+      "MemberType": "Submarine",
+      "MemberName": "USS Maine (SSBN-741)",
+      "ParentGroupName": "SUBRON-17",
+      "Longitude": -125.98334263144805,
+      "Latitude": 48.089060064550004,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 358.875,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 555,
+      "Member_GUID": "0498G2-0HMK336B7EEE2",
+      "MemberType": "Submarine",
+      "MemberName": "USS Bremerton (SSN-698)",
+      "ParentGroupName": "SUBRON-19",
+      "Longitude": -126.0595903114117,
+      "Latitude": 47.830927059219576,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 555,
+      "Member_GUID": "0498G2-0HMK336B7EEN5",
+      "MemberType": "Submarine",
+      "MemberName": "USS Jacksonville (SSN-699)",
+      "ParentGroupName": "SUBRON-19",
+      "Longitude": -126.15468611182446,
+      "Latitude": 47.797568238669648,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 1.125,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 557,
+      "Member_GUID": "0498G2-0HMK336B7EEVT",
+      "MemberType": "Submarine",
+      "MemberName": "USS Olympia (SSN-717)",
+      "ParentGroupName": "SUBRON-19",
+      "Longitude": -126.05573507287717,
+      "Latitude": 47.760550223364525,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 358.875,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 683,
+      "Member_GUID": "0498G2-0HMK336B7EF90",
+      "MemberType": "Submarine",
+      "MemberName": "USS Louisville (SSN-724)",
+      "ParentGroupName": "SUBRON-19",
+      "Longitude": -125.98537430833346,
+      "Latitude": 47.797677425407656,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 358.875,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 565,
+      "Member_GUID": "0498G2-0HMK336B7EFQ6",
+      "MemberType": "Submarine",
+      "MemberName": "USS Ohio (SSGN-726)",
+      "ParentGroupName": "SUBRON-19",
+      "Longitude": -126.16816979670969,
+      "Latitude": 47.862782108308387,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 565,
+      "Member_GUID": "0498G2-0HMK336B7EFVH",
+      "MemberType": "Submarine",
+      "MemberName": "USS Michigan (SSGN-727)",
+      "ParentGroupName": "SUBRON-19",
+      "Longitude": -126.06535674752165,
+      "Latitude": 47.892302024276205,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 662,
+      "Member_GUID": "0498G2-0HMK336B7EGNN",
+      "MemberType": "Submarine",
+      "MemberName": "USS Louisiana (SSBN-743)",
+      "ParentGroupName": "SUBRON-19",
+      "Longitude": -125.97961845875285,
+      "Latitude": 47.876375524061167,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 566,
+      "Member_GUID": "0498G2-0HMK336B7EGVR",
+      "MemberType": "Submarine",
+      "MemberName": "USS Seawolf (SSN-21)",
+      "ParentGroupName": "SUBDEVRON-5",
+      "Longitude": -125.34717982438134,
+      "Latitude": 48.194626774899966,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 566,
+      "Member_GUID": "0498G2-0HMK336B7ELDL",
+      "MemberType": "Submarine",
+      "MemberName": "USS Conneticut (SSN-22)",
+      "ParentGroupName": "SUBDEVRON-5",
+      "Longitude": -125.47528491823468,
+      "Latitude": 48.111382999363293,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 1.125,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 567,
+      "Member_GUID": "0498G2-0HMK336B7EOCS",
+      "MemberType": "Submarine",
+      "MemberName": "USS Jimmy Carter (SSN-23)",
+      "ParentGroupName": "SUBDEVRON-5",
+      "Longitude": -125.26482762254099,
+      "Latitude": 48.1097218071704,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 358.875,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7G4AB",
+      "MemberType": "Submarine",
+      "MemberName": "USS Alexandria (SSN-757)",
+      "ParentGroupName": "SUBRON-11",
+      "Longitude": -119.17063191161888,
+      "Latitude": 31.667045918410842,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7G4N2",
+      "MemberType": "Submarine",
+      "MemberName": "USS Scranton (SSN-756)",
+      "ParentGroupName": "SUBRON-11",
+      "Longitude": -119.05974621734745,
+      "Latitude": 31.668361792397114,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7G536",
+      "MemberType": "Submarine",
+      "MemberName": "USS Hampton (SSN-767)",
+      "ParentGroupName": "SUBRON-11",
+      "Longitude": -119.17403941167711,
+      "Latitude": 31.572608369813686,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 1.125,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 555,
+      "Member_GUID": "0498G2-0HMK336B7G5FA",
+      "MemberType": "Submarine",
+      "MemberName": "USS Indianopolis (SSN-697)",
+      "ParentGroupName": "SUBRON-11",
+      "Longitude": -119.04644582392378,
+      "Latitude": 31.567763037224161,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 358.875,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 765,
+      "Member_GUID": "0498G2-0HMK336B7GAEM",
+      "MemberType": "Ship",
+      "MemberName": "USS Zumwalt (DDG-1000)",
+      "ParentGroupName": null,
+      "Longitude": -119.8398301661051,
+      "Latitude": 32.957444571775504,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 765,
+      "Member_GUID": "0498G2-0HMK336B7GAR9",
+      "MemberType": "Ship",
+      "MemberName": "USS Michael Monsoor (DDG-1001)",
+      "ParentGroupName": null,
+      "Longitude": -119.47306700313594,
+      "Latitude": 32.974421738716138,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3557,
+      "Member_GUID": "0498G2-0HMK336B7GBM9",
+      "MemberType": "Ship",
+      "MemberName": "USS Ronald Reagan (CVN-76)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.69565694976706,
+      "Latitude": 34.619133355400123,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VFA-195 \"Dambusters\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #8",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #7",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #2",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #5",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #11",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #6",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #9",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-125 \"Torch Bearers\" #1",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #12",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #10",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #1",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-27 \"Royal Maces\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-195 \"Dambusters\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-125 \"Torch Bearers\" #2",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-125 \"Torch Bearers\" #3",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-115 \"Eagles\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #4",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-102 \"Diamondbacks\" #3",
+          "AC_DBID": 3828,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-125 \"Torch Bearers\" #4",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #5",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #3",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #11",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #7",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-141 \"Shadowhawks\" #1",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #10",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-12 \"Golden Falcons\" #6",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-125 \"Torch Bearers\" #5",
+          "AC_DBID": 4293,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-12 \"Golden Falcons\" #2",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-12 \"Golden Falcons\" #1",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-12 \"Golden Falcons\" #5",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-141 \"Shadowhawks\" #2",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-141 \"Shadowhawks\" #3",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #1",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC. 30 Det. 5 \"Providers\" #1",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-141 \"Shadowhawks\" #4",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #6",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-12 \"Golden Falcons\" #8",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-12 \"Golden Falcons\" #4",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-12 \"Golden Falcons\" #7",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-12 \"Golden Falcons\" #3",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC. 30 Det. 5 \"Providers\" #2",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #2",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #9",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-141 \"Shadowhawks\" #5",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #8",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-77 \"Saberhawks\" #4",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2860,
+      "Member_GUID": "0498G2-0HMK336B7GDSF",
+      "MemberType": "Ship",
+      "MemberName": "USS Antietam (CG-54)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.68320071270838,
+      "Latitude": 34.6189504272071,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3152,
+      "Member_GUID": "0498G2-0HMK336B7GEC5",
+      "MemberType": "Ship",
+      "MemberName": "USS Chancellorsville (CG-62)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.68849012741279,
+      "Latitude": 34.615139862129666,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2863,
+      "Member_GUID": "0498G2-0HMK336B7GFLM",
+      "MemberType": "Ship",
+      "MemberName": "USS Shiloh (CG-67)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.68815742044171,
+      "Latitude": 34.622670899896391,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2867,
+      "Member_GUID": "0498G2-0HMK336B7GG6G",
+      "MemberType": "Ship",
+      "MemberName": "USS Barry (DDG-52)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.6935638954711,
+      "Latitude": 34.611514041281758,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK336B7GGOC",
+      "MemberType": "Ship",
+      "MemberName": "USS Curtis Wilbur (DDG-54)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.69267965923135,
+      "Latitude": 34.627659925413553,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK336B7GH7A",
+      "MemberType": "Ship",
+      "MemberName": "USS John S. McCain (DDG-56)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.6997339833448,
+      "Latitude": 34.61124411590454,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK336B7GHM8",
+      "MemberType": "Ship",
+      "MemberName": "USS Benfold (DDG-65)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.69984756959724,
+      "Latitude": 34.627930748472252,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK336B7GI56",
+      "MemberType": "Ship",
+      "MemberName": "USS Milius (DDG-69)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.70436454273235,
+      "Latitude": 34.615415663274959,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2871,
+      "Member_GUID": "0498G2-0HMK336B7GIK4",
+      "MemberType": "Ship",
+      "MemberName": "USS McCampbell (DDG-85)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.70458587102473,
+      "Latitude": 34.623396796077522,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3140,
+      "Member_GUID": "0498G2-0HMK336B7GJ57",
+      "MemberType": "Ship",
+      "MemberName": "USS Mustin (DDG-89)",
+      "ParentGroupName": "CSG-5",
+      "Longitude": 139.70866508619312,
+      "Latitude": 34.61895360283539,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 524,
+      "Member_GUID": "0498G2-0HMK336B7GJN9",
+      "MemberType": "Ship",
+      "MemberName": "USS Blue Ridge (LCC-19)",
+      "ParentGroupName": "ESG-7",
+      "Longitude": 128.96994033207795,
+      "Latitude": 32.272340628428559,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3563,
+      "Member_GUID": "0498G2-0HMK336B7GJSA",
+      "MemberType": "Ship",
+      "MemberName": "USS America (LHA-6)",
+      "ParentGroupName": "ESG-7",
+      "Longitude": 128.90848006443662,
+      "Latitude": 32.271122691864747,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2599,
+      "Member_GUID": "0498G2-0HMK336B7GK44",
+      "MemberType": "Ship",
+      "MemberName": "USS Green Bay (LPD-20)",
+      "ParentGroupName": "ESG-7",
+      "Longitude": 128.8675460698766,
+      "Latitude": 32.232764358342479,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2599,
+      "Member_GUID": "0498G2-0HMK336B7GK9I",
+      "MemberType": "Ship",
+      "MemberName": "USS New Orleans (LPD-18)",
+      "ParentGroupName": "ESG-7",
+      "Longitude": 128.86310212460276,
+      "Latitude": 32.302793266426981,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2600,
+      "Member_GUID": "0498G2-0HMK336B7GKF0",
+      "MemberType": "Ship",
+      "MemberName": "USS Germantown (LSD-42)",
+      "ParentGroupName": "ESG-7",
+      "Longitude": 129.01656009423255,
+      "Latitude": 32.226901878896221,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2600,
+      "Member_GUID": "0498G2-0HMK336B7GKKV",
+      "MemberType": "Ship",
+      "MemberName": "USS Ashalnd (LSD-48)",
+      "ParentGroupName": "ESG-7",
+      "Longitude": 129.00962508442876,
+      "Latitude": 32.310938477715716,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2116,
+      "Member_GUID": "0498G2-0HMK336B7GKS6",
+      "MemberType": "Ship",
+      "MemberName": "USS Patriot (MCM-7)",
+      "ParentGroupName": "MCMRON-7",
+      "Longitude": 128.43242998268073,
+      "Latitude": 32.439631379702647,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2116,
+      "Member_GUID": "0498G2-0HMK336B7GKTC",
+      "MemberType": "Ship",
+      "MemberName": "USS Pioneer (MCM-9)",
+      "ParentGroupName": "MCMRON-7",
+      "Longitude": 128.43242988756211,
+      "Latitude": 32.39060484798366,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2116,
+      "Member_GUID": "0498G2-0HMK336B7GKUI",
+      "MemberType": "Ship",
+      "MemberName": "USS Warrior (MCM-10)",
+      "ParentGroupName": "MCMRON-7",
+      "Longitude": 128.49985445764054,
+      "Latitude": 32.387424848541478,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2116,
+      "Member_GUID": "0498G2-0HMK336B7GKVO",
+      "MemberType": "Ship",
+      "MemberName": "USS Chief (MCM-14)",
+      "ParentGroupName": "MCMRON-7",
+      "Longitude": 128.5017582534488,
+      "Latitude": 32.43329061079266,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 683,
+      "Member_GUID": "0498G2-0HMK336B7GLAM",
+      "MemberType": "Submarine",
+      "MemberName": "USS Key West (SSN-722)",
+      "ParentGroupName": "SUBRON-15",
+      "Longitude": 143.57527573425531,
+      "Latitude": 13.051431001862866,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 683,
+      "Member_GUID": "0498G2-0HMK336B7GLM4",
+      "MemberType": "Submarine",
+      "MemberName": "USS Oklahoma City (SSN-723)",
+      "ParentGroupName": "SUBRON-15",
+      "Longitude": 143.57318639395132,
+      "Latitude": 12.946290221024826,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7GM1I",
+      "MemberType": "Submarine",
+      "MemberName": "USS Topeka (SSN-754)",
+      "ParentGroupName": "SUBRON-15",
+      "Longitude": 143.70189970553437,
+      "Latitude": 13.061491460845666,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 684,
+      "Member_GUID": "0498G2-0HMK336B7GMDM",
+      "MemberType": "Submarine",
+      "MemberName": "USS Asheville (SSN-758)",
+      "ParentGroupName": "SUBRON-15",
+      "Longitude": 143.6997490229339,
+      "Latitude": 12.936120895647198,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "2022",
+  "ValidUntil": "",
+  "Name": "United States Third Fleet",
+  "Comments": "The United States Pacific Fleet, consisting of the Third and Seventh Fleets"
+}

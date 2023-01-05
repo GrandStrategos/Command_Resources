@@ -1,0 +1,607 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 3550,
+      "Member_GUID": "0498G2-0HMK3L908A8LJ",
+      "MemberType": "Ship",
+      "MemberName": "USS Dwight D. Eisenhower (CVN-69)",
+      "ParentGroupName": "CSG-10",
+      "Longitude": -75.530068523988433,
+      "Latitude": 36.717805476214195,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VFA-131 \"Wildcats\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-123 \"Screwtops\" #2",
+          "AC_DBID": 268,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-32 \"Fighting Swordsmen\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-123 \"Screwtops\" #1",
+          "AC_DBID": 268,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-123 \"Screwtops\" #3",
+          "AC_DBID": 268,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-105 \"Gunslingers\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-83 \"Rampagers\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-131 \"Wildcats\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #11",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-123 \"Screwtops\" #4",
+          "AC_DBID": 268,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-7 \"Dusty Dogs\" #4",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #10",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #4",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-7 \"Dusty Dogs\" #8",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-40 Det. 4 #2",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-130 \"Zappers\" #4",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #3",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #8",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #9",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-7 \"Dusty Dogs\" #1",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-130 \"Zappers\" #1",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-7 \"Dusty Dogs\" #5",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #2",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #7",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #1",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-7 \"Dusty Dogs\" #2",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-7 \"Dusty Dogs\" #6",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-130 \"Zappers\" #2",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #6",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-7 \"Dusty Dogs\" #3",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-130 \"Zappers\" #3",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-74 \"Swamp Foxes\" #5",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-7 \"Dusty Dogs\" #7",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-40 Det. 4 #1",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-130 \"Zappers\" #5",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2861,
+      "Member_GUID": "0498G2-0HMK3L908AASF",
+      "MemberType": "Ship",
+      "MemberName": "USS San Jacinto (CG-56)",
+      "ParentGroupName": "CSG-10",
+      "Longitude": -75.543420102742644,
+      "Latitude": 36.730927043999849,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2862,
+      "Member_GUID": "0498G2-0HMK3L908AC3U",
+      "MemberType": "Ship",
+      "MemberName": "USS Monterrey (CG-61)",
+      "ParentGroupName": "CSG-10",
+      "Longitude": -75.515010078962035,
+      "Latitude": 36.72975222841908,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3194,
+      "Member_GUID": "0498G2-0HMK3L908AEML",
+      "MemberType": "Ship",
+      "MemberName": "USS Sout (DDG-55)",
+      "ParentGroupName": "CSG-10",
+      "Longitude": -75.557156135666361,
+      "Latitude": 36.718085823969467,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2868,
+      "Member_GUID": "0498G2-0HMK3L908AFTH",
+      "MemberType": "Ship",
+      "MemberName": "USS McFaul (DDG-74)",
+      "ParentGroupName": "CSG-10",
+      "Longitude": -75.50199254552912,
+      "Latitude": 36.717051785326674,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2869,
+      "Member_GUID": "0498G2-0HMK3L908AHRU",
+      "MemberType": "Ship",
+      "MemberName": "USS Oscar Austin (DDG-79)",
+      "ParentGroupName": "CSG-10",
+      "Longitude": -75.544134398137842,
+      "Latitude": 36.705391550077572,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2865,
+      "Member_GUID": "0498G2-0HMK3L908AJVS",
+      "MemberType": "Ship",
+      "MemberName": "DDG 103 Truxtun [Arleigh Burke Flight IIA]",
+      "ParentGroupName": "CSG-10",
+      "Longitude": -75.515288048183066,
+      "Latitude": 36.705415731304193,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2873,
+      "Member_GUID": "0498G2-0HMK3L908AKM4",
+      "MemberType": "Ship",
+      "MemberName": "USS James E. Williams (DDG-95)",
+      "ParentGroupName": "CSG-10",
+      "Longitude": -75.52947632747518,
+      "Latitude": 36.695095649507124,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "2022",
+  "ValidUntil": "",
+  "Name": "Carrier Strike Group 10",
+  "Comments": "USS Dwight D. Eisenhower (CVN-69) with accompanying ships (USS San Jacinto, Monterrey, DESRON-26) and air wing (CVW-3)"
+}

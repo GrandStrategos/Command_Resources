@@ -1,0 +1,579 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 3549,
+      "Member_GUID": "0498G2-0HMK2VDA2F38I",
+      "MemberType": "Ship",
+      "MemberName": "USS Nimitz (CVN-68)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90589765548909,
+      "Latitude": 47.729025653274292,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #5",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #8",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #6",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #5",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #3",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #7",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #3",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #4",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #1",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #2",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #3",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #8",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-116 \"Sun Kings\" #1",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #12",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #5",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #9",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #1",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #1",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #6",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #2",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #11",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #10",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #4",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #9",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #11",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #1",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-116 \"Sun Kings\" #3",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #10",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #8",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #3",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #5",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-137 \"Kestrels\" #2",
+          "AC_DBID": 5258,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #12",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-116 \"Sun Kings\" #2",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #7",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #6",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #7",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-22 \"Fighting Redcocks\" #9",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VMFA-323 \"Death Rattlers\" #10",
+          "AC_DBID": 4685,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VFA-94 \"Mighty Shrikes\" #4",
+          "AC_DBID": 5257,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #4",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAQ-139 \"Cougars\" #2",
+          "AC_DBID": 4518,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #1",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #1",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #10",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #2",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #7",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #7",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #9",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #8",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #8",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #5",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #4",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #3",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #5",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #6",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #3",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-30 Det. 4 \"Providers\" #1",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #11",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VAW-116 \"Sun Kings\" #4",
+          "AC_DBID": 694,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #4",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "VRC-30 Det. 4 \"Providers\" #2",
+          "AC_DBID": 2891,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSC-6 \"Screamin' Indians\" #2",
+          "AC_DBID": 5337,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "HSM-73 \"Battlecats\" #6",
+          "AC_DBID": 5338,
+          "Loadout_ID": 0,
+          "ReadyTime_Mins": 0
+        }
+      ],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3152,
+      "Member_GUID": "0498G2-0HMK2VDA2FGHU",
+      "MemberType": "Ship",
+      "MemberName": "USS Chosin (CG-65)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90614389555235,
+      "Latitude": 47.732186761714587,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2873,
+      "Member_GUID": "0498G2-0HMK2VDA2FK5O",
+      "MemberType": "Ship",
+      "MemberName": "USS Gridley (DDG-101)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90989863802145,
+      "Latitude": 47.730443253653206,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2873,
+      "Member_GUID": "0498G2-0HMK2VDA2FMIH",
+      "MemberType": "Ship",
+      "MemberName": "USS Kidd (DDG-100)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90083068592472,
+      "Latitude": 47.731003547104322,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 3148,
+      "Member_GUID": "0498G2-0HMK2VDA2FP5M",
+      "MemberType": "Ship",
+      "MemberName": "USS Momsen (DDG-92)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.91171749615296,
+      "Latitude": 47.727051856246419,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2866,
+      "Member_GUID": "0498G2-0HMK2VDA2FR5A",
+      "MemberType": "Ship",
+      "MemberName": "USS Ralph Johnson (DDG-114)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.89995897427137,
+      "Latitude": 47.727492704206234,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2873,
+      "Member_GUID": "0498G2-0HMK2VDA2FT8H",
+      "MemberType": "Ship",
+      "MemberName": "USS Sampson (DDG-102)",
+      "ParentGroupName": "CSG-11",
+      "Longitude": -124.90561702516349,
+      "Latitude": 47.72382908265233,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "2022",
+  "ValidUntil": "",
+  "Name": "Carrier Strike Group 11",
+  "Comments": "USS Nimitz (CVN-68) with accompanying ships (USS Chosin, DESRON-9)"
+}

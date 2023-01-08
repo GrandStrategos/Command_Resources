@@ -25,4 +25,5 @@ add side with name PF and in that side :
   The algorithm is goal based which means if the goal (final destination) remains the same you can find paths in the defined area for the 
   same goal for multiple units . Just modify the 2nd script.
   
+  
     

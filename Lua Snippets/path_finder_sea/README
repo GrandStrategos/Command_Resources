@@ -17,7 +17,8 @@ add side with name PF and in that side :
   CONSTRAINTS 
   
     unit "test" and RP "G" must be inside area and in depth >30m
-    this script is not optimized , i just hacked it together
+    this script is not optimized , i just hacked it together.
+    Make the area larger than your starting point (unit) and goal point (G)
     
     
   After you run the first script you only need to run the second script if you want to find a path for the unit from a different location . 

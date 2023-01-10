@@ -1,8 +1,0 @@
-Tahiti Oceanic Control Area (OCA):
-
-ScenEdit_AddReferencePoint( {side="France",lat=	-5	,lon=	-157	})
-ScenEdit_AddReferencePoint( {side="France",lat=	-5	,lon=	-155	})
-ScenEdit_AddReferencePoint( {side="France",lat=	3.5	,lon=	-145	})
-ScenEdit_AddReferencePoint( {side="France",lat=	3.5	,lon=	-120	})
-ScenEdit_AddReferencePoint( {side="France",lat=	-30	,lon=	-120	})
-ScenEdit_AddReferencePoint( {side="France",lat=	-30	,lon=	-157	})

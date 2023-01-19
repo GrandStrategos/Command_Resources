@@ -31,3 +31,10 @@
 * [**Command: Modern Operations Tutorials**](https://youtube.com/playlist?list=PLumwWCWlwh39mBwwGJh-LE4_KWwLobkoT) by P. Gatcomb - YouTube playlist of Command: Modern Operations tutorials.
 * [**Cristian Wang**](https://www.youtube.com/@cristianwang344) - Chinese-language tutorials and scenario playthroughs on YouTube, with CC-translation still useful for non-speakers.
 * [**Introductory Guide for New and Prospective Players**](https://steamcommunity.com/sharedfiles/filedetails/?id=1919334405) by Half life Expert - Frequently asked beginner questions answered.
+* [**The "Should I Turn My Radars On" Flowchart**](https://steamcommunity.com/sharedfiles/filedetails/?id=2018883851) by Eboreg - Flowchart explaining Radar EMCON.
+
+#### General Resources:
+
+* [**AAP-15 - NATO Glossary Of Abbreviations Used In NATO Documents And Publications**](https://www.jcs.mil/Portals/36/Documents/Doctrine/Other_Pubs/aap15.pdf) - Overview of military abbreviations.
+* [**APP-6(C) - NATO Joint Military Symbology**](https://www.cimic-coe.org/resources/external-publications/app-6-c.pdf) - Overview of the APP-6 symbology.
+* [**Icons and Symbols - MIL-STD-2525 Symbology**](https://web.archive.org/web/20180915224252/http://www.rogercooper.com/documents/FILE_N_1000508.pdf) - Overview of the NTDS symbology.

@@ -13,6 +13,7 @@
   * [**Tech Support**](https://www.matrixgames.com/forums/viewforum.php?f=10230)
 * [**cmo-db-request**](https://github.com/PygmalionOfCyprus/cmo-db-requests) - Official public request/issue tracker for the Command: Modern Operations database. [GitHub]
 * [**CommandLua**](https://commandlua.github.io/) - Online documentation for the Command LUA API. [GitHub]
+* [**CommandLua New**](http://commandlua.github.io/index2.html) - Online documentation for the Command LUA API.(New Version) [GitHub]
 * [**cmano-db.com**](https://cmano-db.com/) - Database viewer and compare for aircrafts, ships, submarines, facilities, sensors and weapons.
 * [**Steam Workshop**](https://steamcommunity.com/app/1076160/workshop/)
   * [**Community Scenario Pack**](https://steamcommunity.com/sharedfiles/filedetails/?id=2639756219) - Steam Workshop page for the Community Scenario Pack.

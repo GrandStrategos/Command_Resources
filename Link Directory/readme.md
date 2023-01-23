@@ -6,6 +6,7 @@
   * [**Matrix Games**](https://www.matrixgames.com/game/command-modern-operations)
   * [**Steam**](https://store.steampowered.com/app/1076160/Command_Modern_Operations/)
 * [**Game Manual**](https://www.matrixgames.com/amazon/PDF/CMO/CMO_manual_EBOOK.pdf)
+* [**Work-in-Progress Updated Game Manual**](https://www.matrixgames.com/forums/viewtopic.php?p=5045389&sid=e82f4742174442f32f71d7233af7a061#p5045389)
 * [**Official Forum**](https://www.matrixgames.com/forums/viewforum.php?f=10201)
   * [**Mods and Scenarios**](https://www.matrixgames.com/forums/viewforum.php?f=10233)
   * [**After Action Report**](https://www.matrixgames.com/forums/viewforum.php?f=10232)
@@ -20,7 +21,6 @@
 * [**Command series Downloads**](https://command.matrixgames.com/?page_id=1876) - Links to download Tacview and Database image and description add-ons.
 * [**Matrix Games YouTube**](https://www.youtube.com/@MatrixGamesUK/videos)
   * [**One Minute Class**](https://www.youtube.com/playlist?list=PLk5K-IfEIqTuU_AwMIU92cEYTEvo-GH19) by MatrixGames - YouTube playlist of official tutorials.
-
 
 ##### Community Resources:
 

@@ -9,7 +9,7 @@
 
 **Tactical Map**
 
-* **CTRL+ [1...0]:** Store quick-jump slot
+* **CTRL+ [1...0]:** Store quick-jump slot (to selected unit )
 * **[1...0]:** Recall quick-jump slot.
 * **Mouse Right-Click:** Center map on clicked point
 * **Mouse Right-Click and drag:** Pan map

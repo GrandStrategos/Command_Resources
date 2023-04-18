@@ -1,0 +1,34 @@
+I'm GrandStrategos. I create the ORBATs for this repository. This was done by
+making use of multiple available sources from various institution, as well as
+contributions and assistance from various members in the CMO Discord and elsewhere.
+The list of these people is far too extensive, but everyone has my thanks.
+
+The goal of these ORBATs is to provide a stable resource for people to build 
+scenarios with, using formations as close to accurate as I can feasibly get. 
+It also serves as a tool to present the scope of these militaries in a visual 
+manner.
+
+A few notes:
+1) The number of aircraft is not completely accurate all around. I chose a
+base number for squadrons, then readjusted based on sources I had. So there is
+some degree of error with true squadron count in some cases. Some cases, like
+with the MQ-9 Reaper squadrons, I had to make a guess on both size (using TMB
+and the Air Force Almanac in conjunction) and the actual number of squadrons 
+(There was misalignment between reported # of squadrons in TMB and from other 
+sources.). There is a likely reason why this is the case. Thus, once more, it
+is not 100% accurate, but this is as close as I can probably get without
+having access to military documentation.
+
+2) I make usage of Kushan's airbases for CONUS and other air bases.
+That, however, was made a while back, and doesn't cover everything. Furthermore,
+I don't provide as much scrutiny to the creation of airbases, only seeking to
+make quick and dirty ones that can be loaded up, filled up with fuel and/or ammo,
+and are ready to go. The USMC ones are literally single-unit airbases for example.
+USAF ones have slightly more detail. I may come back and change these later.
+
+3) In some cases, such as the PLAN, exact formations are not available. In
+these cases, the units are lumped into a single group. 
+
+IF you have any questions, suggestions, or corrections, then feel free to contact
+me directly on the CMO Discord, or PM me on Discord (GrandStrategos#7520). I work a few
+projects outside of this one, so I may not reply immediately.

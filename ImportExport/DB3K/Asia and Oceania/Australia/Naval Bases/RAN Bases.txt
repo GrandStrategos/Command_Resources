@@ -1,0 +1,11 @@
+Royal Australian Navy Bases Version 1.0
+
+RAN Bases 21/03/23
+
+- HMAS Stirling: Royal Australian Navy's primary base on the west coast (Fleet Base West) of Australia. It is located on Garden Island in the state of Western Australia, near the city of Perth.
+- HMAS Kuttabul: Royal Australian Navy's primary naval base {Fleet Base East} on the east coast of Australia. It is located on Garden Island in Sydney, New South Wales. 
+- HMAS Coonawarra: Royal Australian Navy (RAN) base located in Darwin, Northern Territory and is home to twelve fleet units of the Royal Australian Navy.
+- HMAS Cairns: Royal Australian Navy (RAN) base located in Cairns, Queensland.
+- HMAS Harman: Royal Australian Navy (RAN) communications and logistics facility. The main base is located in the Australian capital of Canberra. [Single unit government building]
+- HMAS Albatross: Also known as Naval Air Station (NAS) Nowra (IATA: NOA, ICAO: YSNW), is an airfield operated by the Royal Australian Navy (RAN). [Single unit airfield]
+- HMAS Waterhen: Royal Australian Navy (RAN), located in Waverton, Sydney,  home to the RAN's mine warfare forces. 

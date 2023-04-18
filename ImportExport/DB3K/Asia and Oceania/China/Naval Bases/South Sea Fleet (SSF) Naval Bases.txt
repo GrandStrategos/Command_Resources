@@ -1,0 +1,10 @@
+Southern Theatre Command Navy (Chinese: 南部战区海军), South Sea Fleet (SSF) Naval Bases
+
+
+Version: 1.0 (18/03/23)
+
+- Yulin Naval Base (Chinese: 楡林海军基地) The traditional base of the People's Liberation Army Navy, located in the eastern suburb of Sanya, Hainan Province, China, **all SSF submarines are based here**.
+- Guangzhou Naval Base (Chinese:廣州海軍基地) Guangzhou is the capital and largest city of Guangdong province in southern China. Located on the Pearl River about 120 km (75 mi) north-northwest of Hong Kong and 145 km (90 mi) north of Macau.
+- Haikou Naval Base (Chinese:俳句海軍基地) Haikou is the capital and most populous city of the Chinese province of Hainan.
+- Shantou Naval Base (Chinese:汕頭海軍基地) Shantou, is a prefecture-level city on the eastern coast of Guangdong, China.
+- Beihai Naval Base (Chinese: 北海海軍基地) Beihai is a major commercial port in the Guangxi Zhuang Autonomous Region. 

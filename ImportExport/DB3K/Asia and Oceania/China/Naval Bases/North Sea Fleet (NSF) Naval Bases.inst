@@ -1,0 +1,62 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 2289,
+      "Member_GUID": "DSWMNJ-0HMP8AOH3B2CC",
+      "MemberType": "Facility",
+      "MemberName": "NSF HQ",
+      "ParentGroupName": null,
+      "Longitude": 120.31864799174826,
+      "Latitude": 36.106116027608167,
+      "Altitude": 3.0,
+      "Speed": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2980,
+      "Member_GUID": "DSWMNJ-0HMP8AOH3B22E",
+      "MemberType": "Facility",
+      "MemberName": "Lushun Naval Base",
+      "ParentGroupName": null,
+      "Longitude": 121.24242959046745,
+      "Latitude": 38.788784874157031,
+      "Altitude": 13.0,
+      "Speed": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 163.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    },
+    {
+      "Member_DBID": 2980,
+      "Member_GUID": "DSWMNJ-0HMP8AOH3B1QA",
+      "MemberType": "Facility",
+      "MemberName": "Huludao Naval Base ",
+      "ParentGroupName": null,
+      "Longitude": 120.54651918073823,
+      "Latitude": 40.351947661051739,
+      "Altitude": 16.0,
+      "Speed": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 128.0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": null
+    }
+  ],
+  "ValidFrom": "",
+  "ValidUntil": "",
+  "Name": "North Sea Fleet (NSF) Naval Bases",
+  "Comments": "",
+  "Template": false
+}

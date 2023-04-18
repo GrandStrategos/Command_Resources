@@ -1,0 +1,8 @@
+Northern Theatre Command Navy (Chinese:北方戰區海軍司令部), North Sea Fleet (NSF) Naval Bases
+
+
+Version: 1.0 (18/03/23)
+
+- NSF Headquarters located at Qingdao (Chinese:北海艦隊) North Sea Fleet (NSF) Headquarters located at Qingdao.
+- Huludao Naval Base (Chinese:蟲鴿海軍基地) Huludao, formerly known as Jinxi until 1994, is a coastal prefecture-level city in southwestern Liaoning province.
+- Lushun Naval Base (Chinese:廬山海軍坐鎮) Lüshunkou District is a district of Dalian, Liaoning province, China. Also formerly called Lüshun City or literally Lüshun Port, it was formerly known as both Port Arthur and Ryojun.

@@ -1,0 +1,8 @@
+Major Taiwan Naval Bases (Chinese: 台灣主要海軍基地)
+
+Version: 1.0 (23/03/23)
+
+- Tsoying Naval Base (Chinese:曹營海軍基地) 1st Naval District HQ, largest naval base in Taiwan.  Located in the Zuoying District which is a district of Kaohsiung City in southern Taiwan.
+- Makung Naval Base (Chinese:馬公海軍基地) 2nd Naval District HQ. Makung is the only city in the offshore Penghu Islands of Taiwan.
+- Keelung Naval Base (Chinese:基隆海軍基地) 3rd Naval District HQ. Keelung is a major port city situated in the northeastern part of Taiwan.
+- Suao Naval Base (Chinese:蘇澳海軍基地) East Coast Command and supports Keelung Naval Base.

@@ -1,0 +1,35 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 3217,
+      "Member_GUID": "18R2CP-0HMPN03895C8E",
+      "MemberType": "Ship",
+      "MemberName": "FFG 827\tChuncheon",
+      "ParentGroupName": null,
+      "ParentGroupGUID": null,
+      "Longitude": 125.47563986354527,
+      "Latitude": 36.339647513317892,
+      "Altitude": 0.0,
+      "Speed": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "FormationStationPoint": null,
+      "FormationLatitude": 0.0,
+      "FormationLongitude": 0.0,
+      "LastFormationSet": null,
+      "LastFormationSpacing": -1.0,
+      "LastFormationSpacingUnits": 0,
+      "HostedAircraftRecords": [],
+      "EmbarkedBoatRecords": [],
+      "MagazineRecords": [],
+      "Member_SBR": "<DeltaUnit>\r\n    <Unit_18R2CP-0HMPN03895C8E>\r\n        <!--FFG 827\tChuncheon (FFG 818 Daegu [Incheon Batch II] [3217])-->\r\n        <SensorAdd_6689>\r\n            <!--K/SPG-540K [Laser Rangefinder]-->\r\n            <Cov>\r\n                <Seg>PB1,PB2,PMA1,PMA2,PMF1,PMF2,SB1,SB2,SMA1,SMA2,SMF1,SMF2,</Seg>\r\n            </Cov>\r\n            <Cov_Ill>\r\n                <Seg>PB1,PB2,PMA1,PMA2,PMF1,PMF2,SB1,SB2,SMA1,SMA2,SMF1,SMF2,</Seg>\r\n            </Cov_Ill>\r\n        </SensorAdd_6689>\r\n        <SensorAdd_6688>\r\n            <!--K/SPG-540K [IR Camera]-->\r\n            <Cov>\r\n                <Seg>PB1,PB2,PMA1,PMA2,PMF1,PMF2,SB1,SB2,SMA1,SMA2,SMF1,SMF2,</Seg>\r\n            </Cov>\r\n            <Cov_Ill>\r\n                <Seg>PB1,PB2,PMA1,PMA2,PMF1,PMF2,SB1,SB2,SMA1,SMA2,SMF1,SMF2,</Seg>\r\n            </Cov_Ill>\r\n        </SensorAdd_6688>\r\n        <SensorAdd_6687>\r\n            <!--K/SPG-540K [CCD]-->\r\n            <Cov>\r\n                <Seg>PB1,PB2,PMA1,PMA2,PMF1,PMF2,SB1,SB2,SMA1,SMA2,SMF1,SMF2,</Seg>\r\n            </Cov>\r\n            <Cov_Ill>\r\n                <Seg>PB1,PB2,PMA1,PMA2,PMF1,PMF2,SB1,SB2,SMA1,SMA2,SMF1,SMF2,</Seg>\r\n            </Cov_Ill>\r\n        </SensorAdd_6687>\r\n        <SensorAdd_6686>\r\n            <!--K/SPG-540K [Radar]-->\r\n            <Cov>\r\n                <Seg>PB1,PB2,PMA1,PMA2,PMF1,PMF2,SB1,SB2,SMA1,SMA2,SMF1,SMF2,</Seg>\r\n            </Cov>\r\n            <Cov_Ill>\r\n                <Seg>PB1,PB2,PMA1,PMA2,PMF1,PMF2,SB1,SB2,SMA1,SMA2,SMF1,SMF2,</Seg>\r\n            </Cov_Ill>\r\n        </SensorAdd_6686>\r\n        <SensorAdd_6691>\r\n            <!--SAQ-540K EOTS [EO]-->\r\n            <Cov>\r\n                <Seg>360</Seg>\r\n            </Cov>\r\n            <Cov_Ill>\r\n                <Seg>360</Seg>\r\n            </Cov_Ill>\r\n        </SensorAdd_6691>\r\n        <SensorAdd_6693>\r\n            <!--SAQ-540K EOTS [IR]-->\r\n            <Cov>\r\n                <Seg>360</Seg>\r\n            </Cov>\r\n            <Cov_Ill>\r\n                <Seg>360</Seg>\r\n            </Cov_Ill>\r\n        </SensorAdd_6693>\r\n        <SensorAdd_6082>\r\n            <!--SAQ-540K EOTS [Laser Designator]-->\r\n            <Cov>\r\n                <Seg>360</Seg>\r\n            </Cov>\r\n            <Cov_Ill>\r\n                <Seg>360</Seg>\r\n            </Cov_Ill>\r\n        </SensorAdd_6082>\r\n    </Unit_18R2CP-0HMPN03895C8E>\r\n</DeltaUnit>"
+    }
+  ],
+  "ValidFrom": "",
+  "ValidUntil": "",
+  "Name": "ROK",
+  "Comments": "",
+  "Template": false
+}

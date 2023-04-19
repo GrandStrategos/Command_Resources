@@ -2,8 +2,10 @@
 
 It picks up the unit in the unit variable, checks that it is not a weapon and checks with the data tables on each side. The data tables can be created with the "PrintUnitsForScore.lua" script. You can modify the scores to your liking.
 
+Please change the side names to adjust to your scenario.
+
 ]]--
---It is recommended that the ChangeScore function be located in your LuaInit script.
+--It is recommended that the ChangeScore function be in your LuaInit script.
 function ChangeScore(side,amt,reason)
   local newScore = ScenEdit_GetScore(side) + amt
   ScenEdit_SetScore(side,newScore,reason)

@@ -11,7 +11,7 @@ function setContains(set, key)
     return set[key] ~= nil
 end
 
-local side = "US" --CHANGE THIS TO THE NAME OF THE SIDE YOU WANT THE UNITS
+local side = "US" --CHANGE THIS TO THE NAME OF THE SIDE YOU WANT 
 local base = {}
 local s = VP_GetSide({ name = side})
 for k, v in pairs(s.units) do

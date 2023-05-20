@@ -1,5 +1,9 @@
 #### Command: Modern Operations - Keyboard Commands
 
+**Hotkeys**
+
+![hotkeys](https://github.com/GrandStrategos/Command_Resources/assets/133597501/bdfb6d12-02e9-426e-ba7b-9f513c69f4a0)
+
 ##### [**Game Manual**](https://www.matrixgames.com/amazon/PDF/CMO/CMO_manual_EBOOK.pdf) *(p. 266)* 
 
 **Basic**

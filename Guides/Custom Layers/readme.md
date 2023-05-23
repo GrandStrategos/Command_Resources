@@ -14,7 +14,7 @@ For familiarisation, the Henderson Field (Midway) custom overlay files can be fo
 
 ![sas planet](https://user-images.githubusercontent.com/121643870/210280525-4a4b794d-1a39-4983-a970-e74e2f3861f3.png)
 
-2. Navigate as necessary to your desired location, for our purposes, we will use *Henderson Field* on Midway Atoll.
+2. Navigate as necessary to your desired location, for our purposes, we will use **Henderson Field** on Midway Atoll.
 
 ![midway](https://user-images.githubusercontent.com/121643870/210280784-68288122-98dc-4939-b28c-f7d068054f2c.png)
 

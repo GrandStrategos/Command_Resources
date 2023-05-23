@@ -1,17 +1,17 @@
 #### Command: Modern Operations - Keyboard Commands
 
-**Hotkeys**
+##### Hotkeys
 
 ![hotkeys](https://github.com/GrandStrategos/Command_Resources/assets/133597501/bdfb6d12-02e9-426e-ba7b-9f513c69f4a0)
 
 ##### [**Game Manual**](https://www.matrixgames.com/amazon/PDF/CMO/CMO_manual_EBOOK.pdf) *(p. 266)* 
 
-**Basic**
+##### Basic
 
 * **Spacebar, CTRL+ENTER:** Pause/Resume Game.
 * **CTRL+S:** Save Scenario.
 
-**Tactical Map**
+##### Tactical Map
 
 * **CTRL+ [1...0]:** Store quick-jump slot (to selected unit )
 * **[1...0]:** Recall quick-jump slot.
@@ -39,7 +39,7 @@
 * **CTRL+M:** Clear Message Log
 * **CTRL+Shift+M:** Message Log in Separate Window
 
-**Scenario Editor**
+##### Scenario Editor
 
 * **CTRL+V:** Toggle God’s Eye View (see all)
 * **INS:** Add Unit
@@ -53,7 +53,7 @@
 * **CTRL+F6:** Add/Remove Aircraft
 * **CTRL+F7:** Add/Remove Boats
 
-**Function Keys**
+##### Function Keys
 
 * **F1:** Engage Targets (Auto)
 * **Shift+F1:** Engage Targets (Manual)
@@ -72,7 +72,7 @@
 * **F11:** Mission Editor
 * **CTRL+F11:** Create New Mission
 
-**Own Units**
+##### Own Units
 
 * **U:** Unassign Selected Units
 * **G:** Group Selected Units
@@ -92,7 +92,7 @@
 * **Shift+D:** Deploy Dipping Sonar
 * **O:** Display Order Of Battle+Contacts Window 
 
-**Contacts**
+##### Contacts
 
 * **P, PgDn, Num 3:** Drop Contacts
 * **H:** Mark Hostile
@@ -101,7 +101,7 @@
 * **F:** Mark Friendly
 * **R:** Rename
 
-**Misc**
+##### Misc 
 
 * **CTRL+Shift+C:** Lua Script Console
 * **CTRL+C:** Copy Lua values of selected unit to clipboard

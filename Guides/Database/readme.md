@@ -11,13 +11,21 @@ Command: Modern Operations has two databases to choose from:
 
 To find out why, please read the following entry on the [**Mega-FAQ.**](https://command.matrixgames.com/?page_id=2920#1105)
 
-##### Changing the Database:
+##### Swapping the Database:
 
-In order to change the database, use the Editor dropdown menu, and navigate to Database.
+In order to swap the database, use the Editor dropdown menu, and navigate to Database.
 
 ![database version](https://github.com/GrandStrategos/Command_Resources/assets/133597501/8bc61b6a-1982-4901-91c0-2f91ed9c6853)
 
-Note: When you change database, all unsaved progress on the current scenario is lost.
+Note: When you swap database, all unsaved progress on the current scenario is lost.
+
+##### Scenario Database Migration:
+
+From time to time, you may want to update an older scenario's database version to the newest database version, in order to allow you to add newly added units and new features in the database.
+
+In the Editor dropdown menu, navigate to Database and select 'Update scenario to latest DB version.'
+
+![scenariomigration](https://github.com/GrandStrategos/Command_Resources/assets/133597501/6d827074-a969-4024-8e6f-0c8c577d8f96)
 
 ##### Database Viewer Instructions:
 

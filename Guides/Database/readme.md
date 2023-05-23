@@ -17,6 +17,8 @@ In order to change the database, use the Editor dropdown menu, and navigate to D
 
 ![database version](https://github.com/GrandStrategos/Command_Resources/assets/133597501/8bc61b6a-1982-4901-91c0-2f91ed9c6853)
 
+Note: When you change database, all unsaved progress on the current scenario is lost.
+
 ##### Database Viewer Instructions:
 
 1.  Launch Command: Modern Operations application, load into any scenario/the editor.

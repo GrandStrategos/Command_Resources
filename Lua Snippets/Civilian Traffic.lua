@@ -133,7 +133,7 @@ function CivilianOutAO()
       end
   end
 end
--- This function create civilian units inside your AO. This tipically is tipically called on your GameSetup function at the start of your scenario.
+-- This function create civilian units inside your AO. This is tipically called on your GameSetup function at the start of your scenario.
 function CivilianInAO()
   local CIVILIAN = 'Civilian' --The name of your civilian side
   local CIV_AREA = {'RP-23','RP-24','RP-25','RP-26'} -- The name of the reference points that define where do you want to create civilian traffic. Works better with square area since the functions that gets the limits of the area returns the max/min latitude and longitude.

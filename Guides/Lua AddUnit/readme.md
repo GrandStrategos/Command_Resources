@@ -17,7 +17,7 @@ Once you have your script template ready, you're good to go in terms to making y
 
 ##### Manual Addition:
 
-In order to show the manual way of filling up your template, I'm going to make a Lua script to add the 24 Patriot batteries operated by the Japan Air Self-Defense Force. 
+In order to show the manual way of filling up your template, I'm going to make a Lua script to add the 25 Patriot batteries operated by the Japan Air Self-Defense Force. 
 
 ![bmd_page-0016](https://github.com/GrandStrategos/Command_Resources/assets/133597501/3a403729-510d-4b42-8bf4-e8a490e7d4de)
 Source: [**2011 Japanese MoD White Paper**](https://web.archive.org/web/20180417164745/http://www.mod.go.jp:80/e/d_act/bmd/bmd.pdf) *(pg. 16)*
@@ -28,5 +28,33 @@ If you aim to make an airbase, open up the airbase's location - on Google Maps, 
 
 For our purposes, as we aim to build the Patriot missile sites for Japan, we need source material like above, giving us the rough locations of the sites, and providing us with a stepping off point for our research.
 
+1. Once you've identified the location of one of the sites, get the **coordinates in decimal degrees**.
+
+![shariki](https://github.com/GrandStrategos/Command_Resources/assets/133597501/3a206bf8-c52d-47fc-8084-9eab8468de93)
+
+2. Add the name, latitude and longitude to the template.
+
+![shariki template](https://github.com/GrandStrategos/Command_Resources/assets/133597501/3fab4307-4dd8-4ea7-a792-4c375bfd11e7)
+
+3. Repeat until every unit you want to add to the table is completed.
+
+![patriot template 1](https://github.com/GrandStrategos/Command_Resources/assets/133597501/ae40e787-79fb-463a-a707-e5c14b137e6f)
+
+4. Ensure that the Lua function section of the script is correct, i.e. the DBID and Side Name.
+
+![patriot template 2](https://github.com/GrandStrategos/Command_Resources/assets/133597501/da8a1c25-bb2e-45d7-a4f3-fb12c7a3cbb9)
+
+5. Open the Lua Script Console, under the Editor tab.
+
+![lua script console](https://github.com/GrandStrategos/Command_Resources/assets/133597501/16b9d609-ff3f-412c-9674-b38ae497e78e)
+
+
+6. Copy and paste the script into the Lua Script Console, click Run. Please note the space before and after the name, as noted above, either remove this manually or using a Notepad application, or else the names will be slightly spaced wrong.
+
+![console](https://github.com/GrandStrategos/Command_Resources/assets/133597501/bf9c4bba-e3aa-46a1-8d92-2203c459da39)
+
+7. Navigate to the area of your new units in Command, *et voilà.*
+
+![japan patriot](https://github.com/GrandStrategos/Command_Resources/assets/133597501/4dc79b57-790d-4881-92b0-dd2d9f588b37)
 
 ##### Bulk Addition:

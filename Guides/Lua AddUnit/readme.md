@@ -2,12 +2,11 @@
 
 ##### Preparation:
 
-In order to be most effective in your use of Lua code to add units, you need to create the script in advance. 
+In order to be most effective in your use of Lua code to add units, you need to create the script template in advance. 
 
 The most effective way of doing this is preparing a spreadsheet (Office Excel or Google Sheets) with spaces for the changeable elements (i.e. Unit Name, Latitude and Longitude), allowing you to quickly enter those values, copy the script and paste it into the Lua Script Console.
 
 ![scripttemplate](https://github.com/GrandStrategos/Command_Resources/assets/133597501/b7ff6b47-22c4-484f-bf93-79f0b6fade98)
-
 
 Once you have your script template ready, you're good to go in terms to making your scripts, although there's a couple things to note.
 

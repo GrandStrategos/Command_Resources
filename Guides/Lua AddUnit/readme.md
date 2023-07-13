@@ -25,7 +25,7 @@ With your project in hand, you need to find information.
 
 If you aim to make an airbase, open up the airbase's location - on Google Maps, Google Earth Pro, Bing, Maxar, Yandex, Wikimapia, OSM, etc - and start figuring out what is what - runway, runway access points, aircraft spaces, revetments, shelters, ammo and fuel storage - and start marking them. 
 
-For our purposes, as we aim to build the Patriot missile sites for Japan, we need source material like above, giving us the rough locations of the sites, and providing us with a stepping off point for our research.
+For our purposes, as we aim to build the Patriot missile sites for Japan, we need source material like above, giving us the rough locations of the sites, and providing us with a stepping off point for our research. 
 
 1. Once you've identified the location of one of the sites, get the **coordinates in decimal degrees**.
 
@@ -57,3 +57,33 @@ For our purposes, as we aim to build the Patriot missile sites for Japan, we nee
 ![japan patriot](https://github.com/GrandStrategos/Command_Resources/assets/133597501/4dc79b57-790d-4881-92b0-dd2d9f588b37)
 
 ##### Bulk Addition:
+
+For Bulk Addition, the procedure from 2-7 is actually the same, the only difference is how you get your data.
+
+###### Overpass Turbo and ChatGPT
+
+Using [**Overpass Turbo**](https://overpass-turbo.eu/) (in coordination with [**ChatGPT**](https://chat.openai.com/) if you would like to efficient) is a good way of building out a scenario with additional targets, or "do not hit" elements (with scoring) to your scenario.
+
+In this case, we want to get every diplomatic embassy in Београд/Belgrade.
+
+1. Open ChatGPT and ask it for an Overpass Turbo query for embassies in Београд/Belgrade.
+
+![chatgpt](https://github.com/GrandStrategos/Command_Resources/assets/133597501/546b0db0-7d77-4eb2-aeca-5d0aab23e506)
+
+2. Run the query in Overpass Turbo.
+
+![overpass](https://github.com/GrandStrategos/Command_Resources/assets/133597501/231543a1-a28a-4452-af30-6e4d25268f41)
+
+3. Using the export menu, export the query as a GeoJSON.
+
+![export](https://github.com/GrandStrategos/Command_Resources/assets/133597501/7d33d5b7-5bb2-49cb-b266-75de54d3f638)
+
+###### Other Methods
+
+Alternatively, you could mark everything in Google Earth Pro and save it as a KMZ/KML file, or make use of open-source maps that you can find online. In terms of open-source data, with enough time you can find map files for a lot of military sites.
+
+##### QGIS
+
+To continue with these files, you need [**QGIS**](https://qgis.org/en/site/) software, download this software before continuing.
+
+4.

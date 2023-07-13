@@ -86,4 +86,19 @@ Alternatively, you could mark everything in Google Earth Pro and save it as a KM
 
 To continue with these files, you need [**QGIS**](https://qgis.org/en/site/) software, download this software before continuing.
 
-4.
+4. Launch QGIS.
+
+![qgis](https://github.com/GrandStrategos/Command_Resources/assets/133597501/0f6f499d-8076-41be-a395-1e80cbe78700)
+
+5. Drag the map file into QGIS and open it. (Note: I have a map layer plugin.)
+
+![belgrade](https://github.com/GrandStrategos/Command_Resources/assets/133597501/a55b9f4d-9973-4e5e-8be5-63b4bed6b056)
+
+6. Right click the file, and click Export and then Save features as.
+
+![export save features as](https://github.com/GrandStrategos/Command_Resources/assets/133597501/66127205-fae8-400f-8d76-f234cd109bb0)
+
+7. This will open the Save Vector Layer as interface. Export the file as a GeoJSON and save somewhere you remember. Note to those confused by re-saving it as the same file type (in the case of the Overpass Turbo export process, you still put your KMZ/KML through this process and save it as a GeoJSON too), this is due to the arrangement of the file text being unwieldy to use as a pure Overpass Turbo export, whilst the QGIS process makes it uniform.
+
+![save as](https://github.com/GrandStrategos/Command_Resources/assets/133597501/1a8cdbc9-659c-46b7-bbd3-b60bf4bd0191)
+

@@ -102,3 +102,12 @@ To continue with these files, you need [**QGIS**](https://qgis.org/en/site/) sof
 
 ![save as](https://github.com/GrandStrategos/Command_Resources/assets/133597501/1a8cdbc9-659c-46b7-bbd3-b60bf4bd0191)
 
+##### Office Excel
+
+Next step is to use Microsoft Office Excel. If you don't have access to it, you'll have to find another software that allows you to separate the file into cells based on commas.
+
+8. Drag the file into Office Excel.
+
+![excel 1](https://github.com/GrandStrategos/Command_Resources/assets/133597501/78df3edd-1df9-4eb6-81c7-df28a30726b1)
+
+

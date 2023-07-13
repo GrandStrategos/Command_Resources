@@ -110,18 +110,38 @@ Next step is to use Microsoft Office Excel. If you don't have access to it, you'
 
 ![excel 1](https://github.com/GrandStrategos/Command_Resources/assets/133597501/78df3edd-1df9-4eb6-81c7-df28a30726b1)
 
+9. Select Column A.
+
 ![excel 2](https://github.com/GrandStrategos/Command_Resources/assets/133597501/4d78e8d3-1dde-41fe-82c7-8622f02a710d)
+
+10. Go to the Data tab and select "Text to Columns" and open that interface.
 
 ![excel 3](https://github.com/GrandStrategos/Command_Resources/assets/133597501/f117d233-8706-4016-9026-554a15edb49f)
 
+11. On Step 1, select Delimited and hit Next.
+
 ![excel 4](https://github.com/GrandStrategos/Command_Resources/assets/133597501/d259f5e2-62ff-435a-8cdd-1cf326f90410)
+
+12. On Step 2, select Tab, Semicolon, Comma and Space as Delimiters and hit Next.
 
 ![excel 5](https://github.com/GrandStrategos/Command_Resources/assets/133597501/85538aa6-1654-42dc-9eb9-df480f402712)
 
+13. On Step 3, don't touch anything and hit Finish.
+
 ![excel 6](https://github.com/GrandStrategos/Command_Resources/assets/133597501/7e722cd7-c9ce-44d5-96ae-1367a2d30976)
+
+14. You'll now end up back in your separated spreadsheet.
 
 ![excel 7](https://github.com/GrandStrategos/Command_Resources/assets/133597501/85468d66-ce1f-4361-813c-6f6c4e987d97)
 
+15. Navigate to find the important elements (Name, Lat and Long) and delete the other useless tabs. Note that at the very far right, the coordinates, lat and longitude tabs are actually switched, long on the left, lat on the right, make sure you don't get them confused.
+
 ![excel 8](https://github.com/GrandStrategos/Command_Resources/assets/133597501/52ed9c34-ca58-4472-a61c-33dedf087715)
 
+16. Copy and paste the three Name, Lat and Long columns into your prepared Lua script, and continue as in the Manual Addition guide above. Note, be careful to remove any commas in the name column or else the script will be confused.
 
+![template embassy](https://github.com/GrandStrategos/Command_Resources/assets/133597501/7856b501-820b-445f-8716-3fac5c8b5360)
+
+17. Once you Run the script successfully, Navigate to the area of the new units in Command, *et voilà.*
+
+![serb embassies](https://github.com/GrandStrategos/Command_Resources/assets/133597501/c8836b52-0644-425f-bf64-793bb65d4904)

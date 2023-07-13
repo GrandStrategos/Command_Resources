@@ -110,4 +110,18 @@ Next step is to use Microsoft Office Excel. If you don't have access to it, you'
 
 ![excel 1](https://github.com/GrandStrategos/Command_Resources/assets/133597501/78df3edd-1df9-4eb6-81c7-df28a30726b1)
 
+![excel 2](https://github.com/GrandStrategos/Command_Resources/assets/133597501/4d78e8d3-1dde-41fe-82c7-8622f02a710d)
+
+![excel 3](https://github.com/GrandStrategos/Command_Resources/assets/133597501/f117d233-8706-4016-9026-554a15edb49f)
+
+![excel 4](https://github.com/GrandStrategos/Command_Resources/assets/133597501/d259f5e2-62ff-435a-8cdd-1cf326f90410)
+
+![excel 5](https://github.com/GrandStrategos/Command_Resources/assets/133597501/85538aa6-1654-42dc-9eb9-df480f402712)
+
+![excel 6](https://github.com/GrandStrategos/Command_Resources/assets/133597501/7e722cd7-c9ce-44d5-96ae-1367a2d30976)
+
+![excel 7](https://github.com/GrandStrategos/Command_Resources/assets/133597501/85468d66-ce1f-4361-813c-6f6c4e987d97)
+
+![excel 8](https://github.com/GrandStrategos/Command_Resources/assets/133597501/52ed9c34-ca58-4472-a61c-33dedf087715)
+
 

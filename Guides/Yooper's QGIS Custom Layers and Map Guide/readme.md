@@ -2,8 +2,8 @@
 
 Credit: Reproduced with kind permission from Yooper, original post on [**forum.**](https://www.matrixgames.com/forums/viewtopic.php?f=10201&t=398935)
 
-* [**QGIS Custom Layer Guide**](https://github.com/GrandStrategos/Command_Resources/tree/main/Guides/Yooper's%20QGIS%20Custom%20Layers%20and%20Map%20Guide#yoopers-custom-layer-guide)
-* [**Mapbox/QGIS Custom Map Guide**](https://github.com/GrandStrategos/Command_Resources/tree/main/Guides/Yooper's%20QGIS%20Custom%20Layers%20and%20Map%20Guide#yoopers-custom-map-guide)
+* [**QGIS Custom Layer Guide**](https://github.com/GrandStrategos/Command_Resources/tree/main/Guides/Yooper's%20QGIS%20Custom%20Layers%20and%20Map%20Guide#yoopers-qgis-custom-layer-guide)
+* [**Mapbox/QGIS Custom Map Guide**](https://github.com/GrandStrategos/Command_Resources/tree/main/Guides/Yooper's%20QGIS%20Custom%20Layers%20and%20Map%20Guide#yoopers-mapboxqgis-custom-map-guide)
 
 ##### Yooper's QGIS Custom Layer Guide
 

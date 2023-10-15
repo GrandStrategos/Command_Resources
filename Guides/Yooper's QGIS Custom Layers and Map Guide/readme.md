@@ -2,7 +2,10 @@
 
 Credit: Reproduced with kind permission from Yooper, original post on [**forum.**](https://www.matrixgames.com/forums/viewtopic.php?f=10201&t=398935)
 
-##### Yooper's Custom Layer Guide
+* [**QGIS Custom Layer Guide**](https://github.com/GrandStrategos/Command_Resources/tree/main/Guides/Yooper's%20QGIS%20Custom%20Layers%20and%20Map%20Guide#yoopers-custom-layer-guide)
+* [**Mapbox/QGIS Custom Map Guide**](https://github.com/GrandStrategos/Command_Resources/tree/main/Guides/Yooper's%20QGIS%20Custom%20Layers%20and%20Map%20Guide#yoopers-custom-map-guide)
+
+##### Yooper's QGIS Custom Layer Guide
 
 ![2023-10-15_15-13-16](https://github.com/GrandStrategos/Command_Resources/assets/133597501/264c6f47-659b-4115-8df7-35e3b0959912)
 
@@ -56,7 +59,7 @@ A few important items :
 3. You have to either load the layers each time you load the scenario, or you have to use some Lua to load the attachment.
 4. This only does one zoom level, so if you zoom in ridiculously close, all you will see is the PNG you created but zoomified. This is the nature of how it works using an overlay. You are "overlaying" this image on the normal CMO map system.
 
-##### Yooper's Custom Map Guide
+##### Yooper's Mapbox/QGIS Custom Map Guide
 
 To make your own, custom maps, things get more interesting. Create an account at MapBox.
 

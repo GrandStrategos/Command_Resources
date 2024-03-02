@@ -52,7 +52,7 @@ Once we have our area, we will create the GPS Jamming event, using a "Unit enter
 
 Another option would be use the "UnitRemainsInArea" trigger and assign a time for the trigger to activate. The "UnitRemainsInArea" trigger allows for more complex logic; for example, with a short stay time like 1 minute and making the event repeatable, we can accumulate the number of times the trigger is launched. Thus, for weapons under the jammer's influence for a prolonged period, the probability of eventually being jammed will increase.
 
-To create the Event, I will use an auxiliary function I have for creating such events. Additionally, a FilterType can be assigned so the event is only activated when the unit is a RED side Weapon. For now, I have named the Lua action to be executed GPSJamming(), which we will develop next.
+To create the Event, I will use an auxiliary function I have for creating such events. Additionally, a FilterType can be assigned so the event is only activated when the unit is a RED side weapon. For now, I have named the Lua action to be executed GPSJamming(), which we will develop next.
 ```
 local FilterType = {TargetSide = VP_GetSide({side='RED'}).guid, TargetType = 6}
 UnitEntersAreaEvent('GPS JAMMING',FilterType,jamming_area,'GPS_Jamming()','add',false,true,true)
@@ -72,9 +72,9 @@ if weaponU and GPS_GuidedWeapons[weaponU.dbid] then -- If the element exists in 
 end
 ```
 
-Now is maybe the most complicate part, we want that if our Guided Munition is Jammed, the GPS coordinates of the weapon change a bit. Let's first examines how can we know which is the target of the weapon.
+Now is maybe the most complicate part, we want that if our Guided Munition is Jammed, the GPS coordinates of the weapon changes a bit. Let's first examines how can we know which is the target of the weapon.
 
-In the variable weaponU that's the [Unit Wrapper](https://commandlua.github.io/assets/Wrappers.html#wrapper_Unit) of the Weapon, we have the attribute .target. If we print this attribute it shows like this:
+In the variable weaponU that's the [Unit Wrapper](https://commandlua.github.io/assets/Wrappers.html#wrapper_Unit) of the weapon, we have the attribute .target. If we print this attribute it shows like this:
 
 ```
 print(weaponU.target)
@@ -92,7 +92,7 @@ if weaponU.target then
   local lon = weaponU.target.longitude
 ```
 
-Also we can access the data of the terminal point of the Weapon using the course attribute.
+Also we can access the data of the terminal point of the weapon using the course attribute.
 ```
 if weaponU.course then
   local last_waypoint = weaponU.course[#weaponU.course] -- Acces to the last waypoint
@@ -101,7 +101,7 @@ if weaponU.course then
 end
 ```
 
-Now what we have to do is change the latitude and longitude of this Terminal Point. We can customize this change as we want, for example depending on the strength of the jammer we can make this variation higher or lower, also we can again use the jamming_resistance attribute to calculate the variation of the impact point.
+Now what we have to do is change the latitude and longitude of this terminal point. We can customize this change as we want, for example depending on the strength of the jammer we can make this variation higher or lower, also we can again use the jamming_resistance attribute to calculate the variation of the impact point.
 
 ```
 lat = lat + math.random(-10,10)/10^4
@@ -114,7 +114,7 @@ weaponU.course = { {latitude=lat, longitude=lon, TypeOf='TerminalPoint'} }
 weaponU.target ={ latitude=lat, longitude=lon, GUID='BOL' }
 ```
 
-So this is how GPSJamming Function looks like. In this function I've added a check for weapons with a plotted course, to only change the last waypoint.
+So this is how GPS_Jamming Function looks like. In this function I've added a check for weapons with a plotted course, to only change the last waypoint.
 ```
 function GPS_Jamming() 
   local weapon = UnitX() -- Unit that trigger the events

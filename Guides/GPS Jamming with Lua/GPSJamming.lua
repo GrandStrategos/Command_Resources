@@ -94,7 +94,7 @@ ScenEdit_AssignUnitToMission(red.guid,'Strike')
 -- GPS GAME LOGIC
 
 GPS_GuidedWeapons ={
-  [3866] = {jamming_resistance = 15}
+  [3866] = {jamming_resistance = 90}
 }
 
 

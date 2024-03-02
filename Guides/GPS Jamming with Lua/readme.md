@@ -2,7 +2,7 @@
 
 Today, I want to present a brief tutorial on implementing GPS Jamming for weapons in Command Modern Operations. GPS jamming has been a recurrent tactic during the war in Ukraine and is certainly a factor to consider regarding the effectiveness of GPS-guided munitions. To illustrate this, I will create an example using a simple data structure from which complex models can be developed according to individual needs.
 
-The first step is to identify which guided munitions in your scenario will be affected by GPS jamming. We will create a data structure in Lua using a table.The table keys will be the DBIDs of the weapons vulnerable to jamming, streamlining the process of verifying whether a weapon is compromised by our jammer. Each key will map to a nested table containing a single attribute, jamming_resistance. A resistance value of 0 means the weapon can't resist jamming at all, while a value of 100 indicates the weapon is fully protected against jamming. This simple system helps us understand how vulnerable each weapon is to jamming. 
+The first step is to identify which guided munitions in your scenario will be affected by GPS jamming. We will create a data structure in Lua using a table. The table keys will be the DBIDs of the weapons vulnerable to jamming, streamlining the process of verifying whether a weapon is compromised by our jammer. Each key will map to a nested table containing a single attribute, jamming_resistance. A resistance value of 0 means the weapon can't resist jamming at all, while a value of 100 indicates the weapon is fully protected against jamming. This simple system helps us understand how vulnerable each weapon is to jamming. 
 
 _(Please note that you can include any attributes relevant to your weapon's GPS guidance in the attribute table. These attributes can be tailored to the specific logic you wish to implement, allowing for customization based on the desired complexity of your scenario.)_
 
@@ -14,12 +14,11 @@ GPS_GuidedMunitions = {
   ...
 }
 ```
-
-Once our table is created, we will implement the following logic in Command.
+Once we have the data structure let's do how to simulate the GPS Logic.
 
 We want an event to be triggered to simulate the probability of interference occurring if one of our GPS-guided munitions enters the interference zone of a Jammer.
 
-To do this, start with a blank scenario in Command, adding the BLUE and RED sides.
+Let's start with a blank scenario in Command, adding the BLUE and RED sides.
 ```
 ScenEdit_AddSide({side='RED'})
 ScenEdit_AddSide({side='BLUE'})

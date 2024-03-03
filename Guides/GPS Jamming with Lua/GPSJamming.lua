@@ -127,6 +127,7 @@ function GPS_Jamming()
             end
           end
           weaponU.course = newCourse
+          weaponU.target ={ latitude=lat, longitude=lon, GUID='BOL' }
         end
       end
     end

@@ -15,23 +15,24 @@ end
 --SCRIPT START
 local unit =  ScenEdit_UnitX()
 if unit.type ~= 'Weapon' then
-  local red_units= {
-    {type= 'Ship,', class= 'CVN 75 Harry S Truman [Nimitz Class]', dbid= 3556, points=-5000, descriptor='sinked'},
-    {type= 'Aircraft,', class= 'MQ-8B Fire Scout UAV', dbid= 3455, points=-120, descriptor='destroyed'},
-  }
-
-  local blue_units ={
-    {type= 'Aircraft,', class= 'MQ-8C Fire-X UCAV [Bell 407 Mod]', dbid= 4031, points=-120, descriptor='destroyed'},
-    {type= 'Aircraft,', class= 'RQ-4D Phoenix UAV', dbid= 4234, points=-350, descriptor='destroyed'}
-  }
-
-  local matchData = {}
-  local targetList
-  local side = unit.side
-  if side == "Blue" then  
-    targetList = blue_units 
-  else 
-    targetList = red_units end
+	local red_units= {
+	{type= 'Ship,', class= 'CVN 75 Harry S Truman [Nimitz Class]', dbid= 3556, points=-5000, descriptor='sinked'},
+	{type= 'Aircraft,', class= 'MQ-8B Fire Scout UAV', dbid= 3455, points=-120, descriptor='destroyed'},
+	}
+	
+	local blue_units ={
+	{type= 'Aircraft,', class= 'MQ-8C Fire-X UCAV [Bell 407 Mod]', dbid= 4031, points=-120, descriptor='destroyed'},
+	{type= 'Aircraft,', class= 'RQ-4D Phoenix UAV', dbid= 4234, points=-350, descriptor='destroyed'}
+	}
+	
+	local matchData = {}
+	local targetList
+	local side = unit.side
+	if side == "Blue" then  
+	targetList = blue_units 
+	else 
+	targetList = red_units 
+	end
 	for k,v in ipairs (targetList) do
 		if v.dbid == unit.dbid then
 			matchData = v
